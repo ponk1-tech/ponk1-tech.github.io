@@ -61,16 +61,8 @@ jobs:
             exit 1
           fi
           
-          # 開発者情報を除いたアプリ一覧を抽出し、正規化
-          APPS=$(echo "$RESPONSE" | jq '[.results[] | select(.wrapperType == "software") | {
-            trackId: .trackId,
-            trackName: .trackName,
-            version: .version,
-            currentVersionReleaseDate: .currentVersionReleaseDate,
-            releaseNotes: (.releaseNotes // ""),
-            artworkUrl100: .artworkUrl100,
-            trackViewUrl: .trackViewUrl
-          }] | sort_by(.trackId)')
+          # 開発者情報を除いたアプリ一覧を抽出（全プロパティ保持）
+          APPS=$(echo "$RESPONSE" | jq '[.results[] | select(.wrapperType == "software")] | sort_by(.trackId)')
           
           APP_COUNT=$(echo "$APPS" | jq 'length')
           if [ "$APP_COUNT" -eq 0 ]; then
