@@ -14,9 +14,16 @@ export default function AppGrid({ apps }: AppGridProps) {
     );
   }
 
+  // 新しいアプリが上に来るようにソート（currentVersionReleaseDateの降順）
+  const sortedApps = [...apps].sort((a, b) => {
+    const dateA = new Date(a.currentVersionReleaseDate || 0).getTime();
+    const dateB = new Date(b.currentVersionReleaseDate || 0).getTime();
+    return dateB - dateA;
+  });
+
   return (
     <div className="app-grid">
-      {apps.map((app) => (
+      {sortedApps.map((app) => (
         <AppCard key={app.trackId} app={app} />
       ))}
     </div>
