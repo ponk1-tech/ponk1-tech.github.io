@@ -80,7 +80,7 @@
 ### 3.2 サイト固定情報（確定）
 - siteName: Ponk1 Tech
 - noteUrl: https://note.com/ponk1_tech
-- contactEmail: ponk1.tech@gmail.com
+- contactEmail: info@ponk1-tech.com
 
 ---
 
