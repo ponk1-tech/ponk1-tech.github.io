@@ -163,8 +163,9 @@
         "教育",
         "ライフスタイル"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.BicycleQuiz",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6756289291,
       "trackName": "自転車ルールクイズ",
       "releaseDate": "2025-12-14T08:00:00Z",
@@ -346,8 +347,9 @@
         "ライフスタイル",
         "仕事効率化"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.SimpleSharingList",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6756349384,
       "trackName": "シンプル共有リスト",
       "releaseDate": "2026-01-13T08:00:00Z",
@@ -359,7 +361,6 @@
       ],
       "releaseNotes": "・リスト不具合の修正",
       "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.4.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -530,8 +531,9 @@
         "仕事効率化",
         "教育"
       ],
-      "price": 0.00,
       "bundleId": "com.example.NewPractice",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6756706588,
       "trackName": "NewPractice",
       "releaseDate": "2025-12-22T08:00:00Z",
@@ -543,7 +545,6 @@
       ],
       "releaseNotes": "・エクスポート/インポート機能を実装しました\n・軽微な不具合修正",
       "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.1.2",
       "wrapperType": "software",
       "currency": "JPY",
@@ -713,8 +714,8 @@
       "genres": [
         "ライフスタイル"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.applianceWarrantyReminder",
+      "price": 0,
       "trackId": 6756811252,
       "trackName": "家電管理ノート",
       "releaseDate": "2026-01-12T08:00:00Z",
@@ -894,8 +895,8 @@
       "genres": [
         "ライフスタイル"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.wishProgress",
+      "price": 0,
       "trackId": 6757073271,
       "trackName": "がまん貯金簿",
       "releaseDate": "2026-01-12T08:00:00Z",
@@ -1073,8 +1074,8 @@
       "genres": [
         "仕事効率化"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.simpleRoutine",
+      "price": 0,
       "trackId": 6757098384,
       "trackName": "シンプルルーティン",
       "releaseDate": "2026-01-12T08:00:00Z",
@@ -1252,8 +1253,8 @@
       "genres": [
         "ライフスタイル"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.timelineDiary",
+      "price": 0,
       "trackId": 6757142067,
       "trackName": "タイムライン日記",
       "releaseDate": "2026-01-15T08:00:00Z",
@@ -1432,8 +1433,8 @@
       "genres": [
         "ヘルスケア／フィットネス"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.supplementMedicineReminder",
+      "price": 0,
       "trackId": 6757256097,
       "trackName": "サップル",
       "releaseDate": "2026-01-12T08:00:00Z",
@@ -1611,8 +1612,8 @@
       "genres": [
         "ヘルスケア／フィットネス"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.workoutDiary",
+      "price": 0,
       "trackId": 6757632431,
       "trackName": "ワークアウトダイアリー",
       "releaseDate": "2026-01-14T08:00:00Z",
@@ -1970,8 +1971,8 @@
       "genres": [
         "ライフスタイル"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.maskingTapeManagement",
+      "price": 0,
       "trackId": 6757968136,
       "trackName": "マステログ",
       "releaseDate": "2026-02-02T08:00:00Z",
@@ -2150,8 +2151,8 @@
         "ライフスタイル",
         "ユーティリティ"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.copilotRecommend",
+      "price": 0,
       "trackId": 6758481976,
       "trackName": "まいにち習慣",
       "releaseDate": "2026-02-05T08:00:00Z",
@@ -2332,8 +2333,8 @@
       "genres": [
         "ライフスタイル"
       ],
-      "price": 0.00,
       "bundleId": "com.ponk1tech.emergencyKitManager",
+      "price": 0,
       "trackId": 6758548947,
       "trackName": "防災グッズ管理",
       "releaseDate": "2026-02-03T08:00:00Z",

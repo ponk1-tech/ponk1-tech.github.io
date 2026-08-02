@@ -1,18 +1,17 @@
-"use client";
-
+import Link from "next/link";
 import { siteConfig } from "@/lib/siteConfig";
 
 export default function Header() {
   return (
     <header className="header">
       <div className="header-inner">
-        <a href="#" className="site-name">
+        <Link href="/" className="site-name">
           {siteConfig.siteName}
-        </a>
+        </Link>
         <nav className="nav">
-          <a href="#apps" className="nav-link">
+          <Link href="/#apps" className="nav-link">
             Apps
-          </a>
+          </Link>
           <a
             href={siteConfig.noteUrl}
             target="_blank"
@@ -21,9 +20,9 @@ export default function Header() {
           >
             Note
           </a>
-          <a href="#contact" className="nav-link">
+          <Link href="/#contact" className="nav-link">
             Contact
-          </a>
+          </Link>
         </nav>
       </div>
     </header>
