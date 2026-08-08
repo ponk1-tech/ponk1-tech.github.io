@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Breadcrumb from "@/components/aikenbiyori/guide/Breadcrumb";
 import GuideHero from "@/components/aikenbiyori/guide/GuideHero";
 import GuideMedia from "@/components/aikenbiyori/guide/GuideMedia";
@@ -164,13 +165,27 @@ export default function AikenbiyoriGuideGettingStartedPage() {
         <GuideSection
           id="plans"
           title="もっと使いたくなったら"
-          description="愛犬日和は無料で始められます。必要に応じて、ライトプラン・プレミアムプランも選べます。各プランの違いは、プランガイドでご案内します。"
+          description={
+            <>
+              愛犬日和は無料で始められます。必要に応じて、ライトプラン・プレミアムプランも選べます。各プランの違いは
+              <Link href="/aikenbiyori/guide/plans/">プラン・課金・広告</Link>
+              のガイドでご案内しています。
+            </>
+          }
         />
 
         <GuideSection
           id="help"
           title="困ったときは"
-          description="使い方に迷ったときや、うまく動かないときは、よくある質問やヘルプをご確認ください。"
+          description={
+            <>
+              使い方に迷ったときや、うまく動かないときは、
+              <Link href="/aikenbiyori/faq/">よくある質問</Link>
+              や
+              <Link href="/aikenbiyori/help/troubleshooting/">トラブルシューティング</Link>
+              をご確認ください。
+            </>
+          }
         />
 
         <RelatedGuides title="関連する使い方" items={relatedItems} />

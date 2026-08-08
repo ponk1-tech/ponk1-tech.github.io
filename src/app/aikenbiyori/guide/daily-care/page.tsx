@@ -69,12 +69,14 @@ const relatedItems: RelatedGuideItem[] = [
   {
     title: "プラン・課金・広告",
     description: "プランの内容や課金、広告表示について紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/plans/",
+    status: "available",
   },
   {
     title: "トラブルシューティング",
     description: "困ったときの対処方法を紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/help/troubleshooting/",
+    status: "available",
   },
 ];
 
@@ -210,7 +212,9 @@ export default function AikenbiyoriGuideDailyCarePage() {
             内容を更新したいときは、ホームの更新ボタンから「今日のケアを更新」できます。
           </p>
           <p className="aiken-guide-section-description">
-            無料プランでは、動画広告を見ることで追加の更新ができます。ライトプラン・プレミアムプランでは、1日に数回まで広告なしで更新できます。利用回数や各プランの詳しい違いは、「プラン・課金・広告」ガイドでご案内する予定です。
+            無料プランでは、動画広告を見ることで追加の更新ができます。ライトプラン・プレミアムプランでは、1日に数回まで広告なしで更新できます。利用回数や各プランの詳しい違いは、
+            <Link href="/aikenbiyori/guide/plans/">プラン・課金・広告</Link>
+            のガイドでご案内しています。
           </p>
           <p className="aiken-guide-section-description">
             <strong>広告</strong>
@@ -240,7 +244,9 @@ export default function AikenbiyoriGuideDailyCarePage() {
           <p className="aiken-guide-section-description">
             詳しくは
             <Link href="/aikenbiyori/faq/">よくある質問</Link>
-            もあわせてご確認ください。トラブルシューティングガイドは、現在準備中です。
+            や
+            <Link href="/aikenbiyori/help/troubleshooting/">トラブルシューティング</Link>
+            もあわせてご確認ください。
           </p>
         </GuideSection>
 

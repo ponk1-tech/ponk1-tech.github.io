@@ -69,12 +69,14 @@ const relatedItems: RelatedGuideItem[] = [
   {
     title: "プラン・課金・広告",
     description: "プランの内容や課金、広告表示について紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/plans/",
+    status: "available",
   },
   {
     title: "トラブルシューティング",
     description: "困ったときの対処方法を紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/help/troubleshooting/",
+    status: "available",
   },
   {
     title: "よくある質問",
@@ -211,7 +213,9 @@ export default function AikenbiyoriGuideAiConsultationPage() {
             利用回数を使い切った場合でも、動画広告を1回見ることで、相談1回分を追加できます。
           </p>
           <p className="aiken-guide-section-description">
-            詳しい利用回数や各プランの違いは、「プラン・課金・広告」ガイドでご案内します。
+            詳しい利用回数や各プランの違いは、
+            <Link href="/aikenbiyori/guide/plans/">プラン・課金・広告</Link>
+            のガイドでご案内しています。
           </p>
         </GuideSection>
 
@@ -223,7 +227,9 @@ export default function AikenbiyoriGuideAiConsultationPage() {
           <p className="aiken-guide-section-description">
             詳しくは
             <Link href="/aikenbiyori/faq/">よくある質問</Link>
-            もあわせてご確認ください。トラブルシューティングガイドは、現在準備中です。
+            や
+            <Link href="/aikenbiyori/help/troubleshooting/">トラブルシューティング</Link>
+            もあわせてご確認ください。
           </p>
         </GuideSection>
 

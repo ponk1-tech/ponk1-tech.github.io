@@ -1128,3 +1128,127 @@ a.aiken-guide-related-card:hover {
     padding: 2.5rem;
   }
 }
+
+.aiken-plan-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.aiken-plan-card {
+  min-width: 0;
+  padding: 1.5rem;
+  border: 1px solid var(--aiken-border);
+  border-radius: 20px;
+  background: var(--aiken-surface);
+  box-shadow: 0 8px 25px var(--aiken-shadow);
+}
+
+.aiken-plan-card-highlight {
+  border-color: var(--aiken-orange);
+  box-shadow: 0 10px 28px rgba(231, 142, 79, 0.18);
+}
+
+.aiken-plan-card h3 {
+  font-size: 1.15rem;
+}
+
+.aiken-plan-card-list {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.1rem;
+}
+
+.aiken-plan-card-row {
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--aiken-border);
+}
+
+.aiken-plan-card-row:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.aiken-plan-card-row dt {
+  color: var(--aiken-muted);
+  font-size: 0.8rem;
+}
+
+.aiken-plan-card-row dd {
+  margin-top: 0.25rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.aiken-guide-steps,
+.aiken-guide-list {
+  display: grid;
+  gap: 0.6rem;
+  margin-top: 0.85rem;
+  padding-left: 1.4rem;
+  color: var(--aiken-muted);
+  line-height: 1.85;
+}
+
+.aiken-guide-steps {
+  list-style: decimal;
+}
+
+.aiken-guide-list {
+  list-style: disc;
+}
+
+.aiken-trouble-list {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.aiken-trouble-item {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--aiken-border);
+  border-radius: 14px;
+  background: var(--aiken-surface);
+}
+
+.aiken-trouble-item summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  list-style: none;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.aiken-trouble-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.aiken-trouble-item summary::after {
+  flex-shrink: 0;
+  content: "+";
+  color: var(--aiken-orange-dark);
+  font-size: 1.1rem;
+}
+
+.aiken-trouble-item[open] summary::after {
+  content: "\2212";
+}
+
+.aiken-trouble-item-body {
+  margin-top: 0.85rem;
+  color: var(--aiken-muted);
+  font-size: 0.9rem;
+  line-height: 1.85;
+}
+
+.aiken-trouble-item-body p + p {
+  margin-top: 0.6rem;
+}
+
+@media (min-width: 640px) {
+  .aiken-plan-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}

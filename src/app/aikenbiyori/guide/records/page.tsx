@@ -69,12 +69,14 @@ const relatedItems: RelatedGuideItem[] = [
   {
     title: "プラン・課金・広告",
     description: "プランの内容や課金、広告表示について紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/plans/",
+    status: "available",
   },
   {
     title: "トラブルシューティング",
     description: "困ったときの対処方法を紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/help/troubleshooting/",
+    status: "available",
   },
   {
     title: "よくある質問",
@@ -174,7 +176,9 @@ export default function AikenbiyoriGuideRecordsPage() {
             削除した記録は元に戻せません。写真を追加している場合、その写真も一緒に削除されます。
           </GuideNote>
           <p className="aiken-guide-section-description">
-            記録に追加した写真は端末内に保存されます。アプリを削除すると写真も消えるためご注意ください。バックアップの詳細は、今後の「データ・バックアップ」ガイドでご案内する予定です。
+            記録に追加した写真は端末内に保存されます。アプリを削除すると写真も消えるためご注意ください。バックアップの詳細は
+            <Link href="/aikenbiyori/guide/data/">データ・バックアップ・機種変更</Link>
+            のガイドでご案内しています。
           </p>
         </GuideSection>
 
@@ -218,7 +222,9 @@ export default function AikenbiyoriGuideRecordsPage() {
             複数の愛犬を登録している場合は、ここから表示する愛犬を切り替えられます。
           </p>
           <p className="aiken-guide-section-description">
-            登録できる頭数はプランによって異なります。詳しい違いは今後の「プラン・課金・広告」ガイドでご案内します。
+            登録できる頭数はプランによって異なります。詳しい違いは
+            <Link href="/aikenbiyori/guide/plans/">プラン・課金・広告</Link>
+            のガイドでご案内しています。
           </p>
           <GuideNote variant="warning">
             愛犬を削除すると元に戻すための操作はありません。削除前に対象の愛犬をよくご確認ください。

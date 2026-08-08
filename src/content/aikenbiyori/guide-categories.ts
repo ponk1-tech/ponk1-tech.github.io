@@ -28,17 +28,20 @@ export const guideCategories: RelatedGuideItem[] = [
   {
     title: "プラン・課金・広告",
     description: "プランの内容や課金、広告表示について紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/plans/",
+    status: "available",
   },
   {
     title: "データ・バックアップ",
     description: "記録データの保存やバックアップについて紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/data/",
+    status: "available",
   },
   {
     title: "トラブルシューティング",
     description: "困ったときの対処方法を紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/help/troubleshooting/",
+    status: "available",
   },
   {
     title: "よくある質問",
