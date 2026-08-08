@@ -132,6 +132,7 @@ body:has(.aiken-site-shell) > main {
 .aiken-feature,
 .aiken-values,
 .aiken-guide,
+.aiken-support,
 .aiken-download {
   width: min(100% - 2rem, 1160px);
   margin-inline: auto;
@@ -244,7 +245,8 @@ body:has(.aiken-site-shell) > main {
 
 .aiken-overview,
 .aiken-values,
-.aiken-guide {
+.aiken-guide,
+.aiken-support {
   padding-block: 4.75rem;
 }
 
@@ -492,6 +494,53 @@ body:has(.aiken-site-shell) > main {
   font-size: 1.15rem;
 }
 
+.aiken-support {
+  border-block: 1px solid var(--aiken-border);
+}
+
+.aiken-support-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.aiken-support-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  min-height: 140px;
+  padding: 1.5rem 3rem 1.5rem 1.5rem;
+  border: 1px solid var(--aiken-border);
+  border-radius: 22px;
+  background: var(--aiken-surface);
+  box-shadow: 0 8px 24px rgba(82, 66, 42, 0.05);
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.aiken-support-card::after {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.3rem;
+  color: var(--aiken-orange-dark);
+  content: "→";
+}
+
+a.aiken-support-card:hover {
+  border-color: #c9cfac;
+  transform: translateY(-2px);
+}
+
+.aiken-support-card strong {
+  color: var(--aiken-olive-dark);
+  font-size: 1.1rem;
+}
+
+.aiken-support-card span {
+  color: var(--aiken-muted);
+  font-size: 0.85rem;
+  line-height: 1.75;
+}
+
 .aiken-download {
   padding: 4.25rem 1.25rem;
   margin-block: 5rem;
@@ -617,7 +666,8 @@ body:has(.aiken-site-shell) > main {
   }
 
   .aiken-overview-links,
-  .aiken-value-grid {
+  .aiken-value-grid,
+  .aiken-support-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
@@ -644,6 +694,7 @@ body:has(.aiken-site-shell) > main {
   .aiken-feature,
   .aiken-values,
   .aiken-guide,
+  .aiken-support,
   .aiken-download {
     width: min(100% - 4rem, 1160px);
   }
@@ -732,6 +783,7 @@ body:has(.aiken-site-shell) > main {
   .aiken-feature,
   .aiken-values,
   .aiken-guide,
+  .aiken-support,
   .aiken-download {
     width: min(100% - 1.25rem, 1160px);
   }
@@ -749,13 +801,15 @@ body:has(.aiken-site-shell) > main {
 
   .aiken-button,
   .aiken-overview-links a,
-  .aiken-guide-links a {
+  .aiken-guide-links a,
+  .aiken-support-card {
     transition: none;
   }
 
   .aiken-button-primary:hover,
   .aiken-overview-links a:hover,
-  .aiken-guide-links a:hover {
+  .aiken-guide-links a:hover,
+  a.aiken-support-card:hover {
     transform: none;
   }
 }

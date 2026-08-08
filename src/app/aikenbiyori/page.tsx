@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import DownloadCta from "@/components/aikenbiyori/DownloadCta";
 import FeatureSection from "@/components/aikenbiyori/FeatureSection";
+import HelpNavigation from "@/components/aikenbiyori/HelpNavigation";
 import HeroSection from "@/components/aikenbiyori/HeroSection";
 import { getAppsStoreData } from "@/lib/appStore";
 import { siteConfig } from "@/lib/siteConfig";
@@ -203,6 +204,8 @@ export default function AikenbiyoriPage() {
       </section>
 
       <DownloadCta appStoreUrl={appStoreUrl} />
+
+      <HelpNavigation />
     </div>
   );
 }

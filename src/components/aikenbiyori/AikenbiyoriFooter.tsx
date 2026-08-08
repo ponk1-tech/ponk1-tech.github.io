@@ -12,6 +12,9 @@ export default function AikenbiyoriFooter() {
           <p>運営: {siteConfig.siteName}</p>
         </div>
         <nav className="aiken-footer-links" aria-label="フッターメニュー">
+          <Link href="/aikenbiyori/guide/">使い方ガイド</Link>
+          <Link href="/aikenbiyori/faq/">よくある質問</Link>
+          <Link href="/aikenbiyori/help/troubleshooting/">困ったとき</Link>
           <a
             href="https://tested-snapdragon-e94.notion.site/3a82f954671980d1a039fd2606a825c7"
             target="_blank"
