@@ -12,8 +12,20 @@ export default function AikenbiyoriFooter() {
           <p>運営: {siteConfig.siteName}</p>
         </div>
         <nav className="aiken-footer-links" aria-label="フッターメニュー">
-          <span>プライバシーポリシー（準備中）</span>
-          <span>利用規約（準備中）</span>
+          <a
+            href="https://tested-snapdragon-e94.notion.site/3a82f954671980d1a039fd2606a825c7"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            プライバシーポリシー
+          </a>
+          <a
+            href="https://tested-snapdragon-e94.notion.site/3a82f954671980d885fbebabfe4b6c75"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            利用規約
+          </a>
           <a href={`mailto:${siteConfig.contactEmail}`}>お問い合わせ</a>
           <Link href="/">Ponk1 Tech公式サイト</Link>
         </nav>
