@@ -4,7 +4,8 @@ export const guideCategories: RelatedGuideItem[] = [
   {
     title: "はじめての方・基本操作",
     description: "アプリの基本的な使い方を確認できます。",
-    status: "planned",
+    href: "/aikenbiyori/guide/getting-started/",
+    status: "available",
   },
   {
     title: "今日のケア",

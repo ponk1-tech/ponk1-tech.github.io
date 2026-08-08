@@ -897,7 +897,7 @@ body:has(.aiken-site-shell) > main {
 .aiken-guide-media-frame {
   position: relative;
   overflow: hidden;
-  aspect-ratio: 9 / 16;
+  aspect-ratio: 1320 / 2868;
   border: 1px solid rgba(220, 205, 178, 0.7);
   border-radius: 24px;
   background: linear-gradient(160deg, #fff7e6, #f2ecd9);

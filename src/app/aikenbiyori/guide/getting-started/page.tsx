@@ -21,10 +21,6 @@ export const metadata: Metadata = {
   alternates: {
     canonical: canonicalUrl,
   },
-  robots: {
-    index: false,
-    follow: false,
-  },
   openGraph: {
     type: "website",
     locale: "ja_JP",
@@ -50,8 +46,6 @@ const tocItems = [
   { id: "plans", label: "もっと使いたくなったら" },
   { id: "help", label: "困ったときは" },
 ];
-
-const placeholderCaption = "実際のアプリ画面は今後追加されます";
 
 const relatedItems = guideCategories.filter(
   (category) => category.title !== "はじめての方・基本操作",
@@ -84,11 +78,10 @@ export default function AikenbiyoriGuideGettingStartedPage() {
           description="まずは、一緒に暮らしている愛犬のことを登録します。名前や誕生日、体重などの情報は、「今日のケア」や「AIに相談」の内容を考える材料になります。"
           layout="split"
           media={
-            /* 想定ファイル名: dog-profile.png */
             <GuideMedia
               kind="image"
-              alt="愛犬のプロフィール登録画面のスクリーンショット"
-              caption={placeholderCaption}
+              src="/aikenbiyori/guide/getting-started/dog-profile.png"
+              alt="愛犬日和の愛犬プロフィール編集画面"
             />
           }
         >
@@ -103,11 +96,10 @@ export default function AikenbiyoriGuideGettingStartedPage() {
           description="地域を設定すると、その地域の天気などを「今日のケア」に反映します。いつも散歩する時間帯も登録しておくと、時間帯ごとの過ごし方を確認しやすくなります。"
           layout="split"
           media={
-            /* 想定ファイル名: walk-time-settings.png */
             <GuideMedia
               kind="image"
-              alt="散歩する時間帯の設定画面のスクリーンショット"
-              caption={placeholderCaption}
+              src="/aikenbiyori/guide/getting-started/walk-time-settings.png"
+              alt="愛犬日和の散歩する時間帯の設定画面"
             />
           }
         />
@@ -118,11 +110,10 @@ export default function AikenbiyoriGuideGettingStartedPage() {
           description="ホームでは、その日の天気や愛犬の情報に合わせた「今日のケア」を確認できます。まずはここを見るだけでも、その日の過ごし方を考えるきっかけになります。"
           layout="split"
           media={
-            /* 想定ファイル名: daily-care-home.png */
             <GuideMedia
               kind="image"
-              alt="「今日のケア」が表示されたホーム画面のスクリーンショット"
-              caption={placeholderCaption}
+              src="/aikenbiyori/guide/getting-started/daily-care-home.png"
+              alt="愛犬日和のホームに表示された今日のケア"
             />
           }
         />
@@ -133,11 +124,10 @@ export default function AikenbiyoriGuideGettingStartedPage() {
           description="散歩や過ごし方、いつもと少し違う様子など、気になることがあれば「AIに相談」から入力できます。愛犬の情報を踏まえて、考えるための材料を整理します。"
           layout="split"
           media={
-            /* 想定ファイル名: ai-consultation.png */
             <GuideMedia
               kind="image"
-              alt="「AIに相談」の入力画面のスクリーンショット"
-              caption={placeholderCaption}
+              src="/aikenbiyori/guide/getting-started/ai-consultation.png"
+              alt="愛犬日和のAIに相談する入力画面"
             />
           }
         >
@@ -152,11 +142,10 @@ export default function AikenbiyoriGuideGettingStartedPage() {
           description="食事や散歩、体調、できごとなど、毎日の様子を記録できます。写真も一緒に残せるので、あとから振り返るときにも役立ちます。"
           layout="split"
           media={
-            /* 想定ファイル名: daily-record.png */
             <GuideMedia
               kind="image"
-              alt="毎日の記録を入力する画面のスクリーンショット"
-              caption={placeholderCaption}
+              src="/aikenbiyori/guide/getting-started/daily-record.png"
+              alt="愛犬日和の毎日の記録一覧画面"
             />
           }
         />
