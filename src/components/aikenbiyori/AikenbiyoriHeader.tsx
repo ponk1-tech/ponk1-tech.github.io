@@ -12,9 +12,7 @@ export default function AikenbiyoriHeader() {
           <a className="aiken-nav-secondary" href="/aikenbiyori/#features">
             特徴
           </a>
-          <a className="aiken-nav-secondary" href="/aikenbiyori/#guide">
-            使い方
-          </a>
+          <Link href="/aikenbiyori/guide/">使い方</Link>
           <Link href="/aikenbiyori/faq/">FAQ</Link>
           <a className="aiken-nav-download" href="/aikenbiyori/#download">
             ダウンロード
