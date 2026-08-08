@@ -759,3 +759,353 @@ body:has(.aiken-site-shell) > main {
     transform: none;
   }
 }
+
+/* Guide共通コンポーネント */
+
+.aiken-guide-page {
+  background:
+    radial-gradient(circle at 92% 4%, rgba(218, 224, 191, 0.5), transparent 26rem),
+    var(--aiken-bg);
+}
+
+.aiken-guide-container {
+  width: min(100% - 2rem, 960px);
+  padding: 1.75rem 0 5rem;
+  margin: 0 auto;
+}
+
+.aiken-guide-breadcrumb {
+  margin-bottom: 2.5rem;
+  color: var(--aiken-muted);
+  font-size: 0.85rem;
+}
+
+.aiken-guide-breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+}
+
+.aiken-guide-breadcrumb li {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.aiken-guide-breadcrumb a {
+  color: var(--aiken-muted);
+}
+
+.aiken-guide-breadcrumb a:hover {
+  color: var(--aiken-orange-dark);
+}
+
+.aiken-guide-hero {
+  max-width: 680px;
+  margin-bottom: 2.75rem;
+}
+
+.aiken-guide-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.75rem;
+  margin-bottom: 1rem;
+  border-radius: 999px;
+  background: var(--aiken-orange-light);
+  color: var(--aiken-orange-dark);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.aiken-guide-hero h1 {
+  margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  line-height: 1.35;
+  letter-spacing: -0.02em;
+}
+
+.aiken-guide-lead {
+  color: var(--aiken-muted);
+  font-size: 1rem;
+  line-height: 1.85;
+}
+
+.aiken-guide-toc {
+  padding: 1.35rem 1.5rem;
+  margin-bottom: 3rem;
+  border: 1px solid var(--aiken-border);
+  border-radius: 16px;
+  background: rgba(255, 253, 247, 0.85);
+  box-shadow: 0 4px 18px var(--aiken-shadow);
+}
+
+.aiken-guide-toc-title {
+  margin-bottom: 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.aiken-guide-toc ul {
+  display: grid;
+  gap: 0.6rem;
+  list-style: none;
+}
+
+.aiken-guide-toc a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 44px;
+  padding: 0.6rem 0.85rem;
+  border-radius: 8px;
+  background: var(--aiken-olive-light);
+  color: var(--aiken-olive-dark);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.aiken-guide-toc a:hover {
+  background: #dde3c6;
+}
+
+.aiken-guide-section {
+  padding-block: 2.75rem;
+  border-top: 1px solid var(--aiken-border);
+  scroll-margin-top: 6rem;
+}
+
+.aiken-guide-section:first-of-type {
+  border-top: 0;
+}
+
+.aiken-guide-section h2 {
+  font-size: clamp(1.35rem, 4vw, 1.7rem);
+  line-height: 1.45;
+}
+
+.aiken-guide-section-description {
+  margin-top: 0.85rem;
+  color: var(--aiken-muted);
+  line-height: 1.85;
+}
+
+.aiken-guide-section-media {
+  margin-top: 1.5rem;
+}
+
+.aiken-guide-media-frame {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 9 / 16;
+  border: 1px solid rgba(220, 205, 178, 0.7);
+  border-radius: 24px;
+  background: linear-gradient(160deg, #fff7e6, #f2ecd9);
+  box-shadow: 0 12px 32px var(--aiken-shadow);
+}
+
+.aiken-guide-media-frame img,
+.aiken-guide-media-frame video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.aiken-guide-media-placeholder {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 1.5rem;
+  border: 2px dashed rgba(220, 205, 178, 0.9);
+  color: var(--aiken-muted);
+  font-size: 0.82rem;
+  text-align: center;
+}
+
+.aiken-guide-media figcaption {
+  margin-top: 0.65rem;
+  color: var(--aiken-muted);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.aiken-guide-note {
+  max-width: 620px;
+  padding: 1rem 1.1rem;
+  margin-top: 1.5rem;
+  border-left: 3px solid var(--aiken-olive);
+  border-radius: 0 12px 12px 0;
+  background: var(--aiken-olive-light);
+  color: #4c5238;
+  font-size: 0.85rem;
+  line-height: 1.75;
+}
+
+.aiken-guide-note-warning {
+  border-left-color: var(--aiken-orange);
+  background: var(--aiken-orange-light);
+  color: #665444;
+}
+
+.aiken-guide-related {
+  padding-block: 2.75rem;
+  border-top: 1px solid var(--aiken-border);
+}
+
+.aiken-guide-related h2 {
+  margin-bottom: 1.5rem;
+  font-size: clamp(1.35rem, 4vw, 1.7rem);
+}
+
+.aiken-guide-related-grid {
+  display: grid;
+  gap: 0.85rem;
+  list-style: none;
+}
+
+.aiken-guide-related-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-height: 100px;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--aiken-border);
+  border-radius: 18px;
+  background: var(--aiken-surface);
+  box-shadow: 0 6px 20px rgba(82, 66, 42, 0.045);
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+a.aiken-guide-related-card:hover {
+  border-color: #c9cfac;
+  transform: translateY(-2px);
+}
+
+.aiken-guide-related-card strong {
+  color: var(--aiken-olive-dark);
+  font-size: 1rem;
+}
+
+.aiken-guide-related-card span {
+  color: var(--aiken-muted);
+  font-size: 0.85rem;
+}
+
+.aiken-guide-related-card-planned {
+  border-style: dashed;
+  background: rgba(255, 253, 247, 0.6);
+}
+
+.aiken-guide-related-badge {
+  align-self: flex-start;
+  padding: 0.2rem 0.6rem;
+  margin-top: 0.15rem;
+  border-radius: 999px;
+  background: var(--aiken-olive-light);
+  color: var(--aiken-olive-dark);
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.aiken-guide-help {
+  display: grid;
+  gap: 1.5rem;
+  padding: 2rem;
+  margin-top: 2.75rem;
+  border: 1px solid var(--aiken-border);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 12% 8%, rgba(255, 224, 181, 0.55), transparent 14rem),
+    linear-gradient(135deg, #eef0df, #fff8ea);
+}
+
+.aiken-guide-help-label {
+  margin-bottom: 0.4rem;
+  color: var(--aiken-olive);
+  font-size: 0.75rem;
+  font-weight: 750;
+  letter-spacing: 0.1em;
+}
+
+.aiken-guide-help h2 {
+  margin-bottom: 0.6rem;
+  font-size: 1.25rem;
+}
+
+.aiken-guide-help p {
+  color: var(--aiken-muted);
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+.aiken-guide-help-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0.7rem 1.15rem;
+  margin-top: 1rem;
+  border-radius: 12px;
+  background: var(--aiken-orange);
+  color: #fff !important;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.aiken-guide-help-button:hover {
+  background: var(--aiken-orange-dark);
+}
+
+.aiken-guide-help-button-secondary {
+  border: 1px solid #cfd5b7;
+  background: rgba(255, 253, 247, 0.85);
+  color: var(--aiken-olive-dark) !important;
+}
+
+.aiken-guide-help-button-secondary:hover {
+  border-color: var(--aiken-olive);
+  background: var(--aiken-olive-light);
+}
+
+.aiken-guide-help-note {
+  margin-top: 0.75rem;
+  font-size: 0.78rem;
+}
+
+@media (min-width: 640px) {
+  .aiken-guide-toc ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .aiken-guide-related-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 900px) {
+  .aiken-guide-section-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+    gap: clamp(2rem, 5vw, 3.5rem);
+    align-items: start;
+  }
+
+  .aiken-guide-section-split .aiken-guide-section-media {
+    margin-top: 0;
+  }
+
+  .aiken-guide-toc ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .aiken-guide-related-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .aiken-guide-help {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 2.5rem;
+  }
+}
