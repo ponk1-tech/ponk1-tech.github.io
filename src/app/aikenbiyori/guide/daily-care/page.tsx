@@ -57,7 +57,14 @@ const relatedItems: RelatedGuideItem[] = [
   {
     title: "AIに相談",
     description: "気になることをAIと整理する使い方を紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/ai-consultation/",
+    status: "available",
+  },
+  {
+    title: "記録・愛犬プロフィール",
+    description: "日々の記録や愛犬のプロフィール登録について紹介します。",
+    href: "/aikenbiyori/guide/records/",
+    status: "available",
   },
   {
     title: "プラン・課金・広告",
