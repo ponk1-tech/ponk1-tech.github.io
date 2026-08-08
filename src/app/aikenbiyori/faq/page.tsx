@@ -7,9 +7,30 @@ import type { FaqData } from "@/types/faq";
 
 const faqData: FaqData = faqJson;
 
+const pageTitle = `よくある質問 | 愛犬日和 | ${siteConfig.siteName}`;
+const pageDescription =
+  "愛犬日和のはじめかたや今日のケア、AIに相談、記録・愛犬プロフィール、料金・広告、データ・機種変更についてのよくある質問をご案内します。";
+const canonicalUrl = `${siteConfig.siteUrl}/aikenbiyori/faq/`;
+
 export const metadata: Metadata = {
-  title: `よくある質問 | 愛犬日和 | ${siteConfig.siteName}`,
-  description: "愛犬日和の使い方や記録、AI相談、データに関するよくある質問をご案内します。",
+  title: pageTitle,
+  description: pageDescription,
+  alternates: {
+    canonical: canonicalUrl,
+  },
+  openGraph: {
+    type: "website",
+    locale: "ja_JP",
+    url: canonicalUrl,
+    siteName: "愛犬日和",
+    title: pageTitle,
+    description: pageDescription,
+  },
+  twitter: {
+    card: "summary",
+    title: pageTitle,
+    description: pageDescription,
+  },
 };
 
 export default function AikenbiyoriFaqPage() {

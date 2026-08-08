@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import type { FaqItem } from "@/types/faq";
 
 interface FaqAccordionProps {
@@ -59,7 +60,15 @@ export default function FaqAccordion({ items }: FaqAccordionProps) {
               <span className="faq-answer-mark" aria-hidden="true">
                 A
               </span>
-              <p>{item.answer}</p>
+              <div>
+                <p>{item.answer}</p>
+                {item.link && (
+                  <Link className="faq-answer-link" href={item.link.href}>
+                    {item.link.label}
+                    <span aria-hidden="true">→</span>
+                  </Link>
+                )}
+              </div>
             </div>
           </div>
         );

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Breadcrumb from "@/components/aikenbiyori/guide/Breadcrumb";
 import GuideHero from "@/components/aikenbiyori/guide/GuideHero";
-import GuideMedia from "@/components/aikenbiyori/guide/GuideMedia";
 import GuideNote from "@/components/aikenbiyori/guide/GuideNote";
 import GuideSection from "@/components/aikenbiyori/guide/GuideSection";
 import HelpFooter from "@/components/aikenbiyori/guide/HelpFooter";
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 
 const tocItems = [
   { id: "categories", label: "カテゴリから探す" },
-  { id: "sample-section", label: "ページの構成例" },
+  { id: "help", label: "困ったときは" },
 ];
 
 export default function AikenbiyoriGuidePage() {
@@ -65,16 +65,16 @@ export default function AikenbiyoriGuidePage() {
         </div>
 
         <GuideSection
-          id="sample-section"
-          title="各ページの構成例"
-          description="今後のガイドページでは、このように短い説明とスクリーンショットをセットで掲載します。"
-          layout="split"
-          media={
-            <GuideMedia
-              kind="image"
-              alt="今日のケア画面のスクリーンショット（準備中）"
-              caption="実際のアプリ画面は今後追加されます"
-            />
+          id="help"
+          title="困ったときは"
+          description={
+            <>
+              使い方に迷ったときや、うまく動かないときは、
+              <Link href="/aikenbiyori/faq/">よくある質問</Link>
+              や
+              <Link href="/aikenbiyori/help/troubleshooting/">トラブルシューティング</Link>
+              をご確認ください。
+            </>
           }
         >
           <GuideNote variant="warning">

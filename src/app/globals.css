@@ -510,6 +510,7 @@ a:hover {
 .faq-question:focus-visible,
 .faq-category-nav a:focus-visible,
 .faq-contact-button:focus-visible,
+.faq-answer-link:focus-visible,
 .breadcrumb a:focus-visible {
   outline: 3px solid rgba(231, 142, 79, 0.4);
   outline-offset: 3px;
@@ -584,6 +585,22 @@ a:hover {
 
 .faq-answer p {
   padding-top: 0.2rem;
+}
+
+.faq-answer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  min-height: 44px;
+  padding: 0.4rem 0;
+  margin-top: 0.2rem;
+  color: var(--aiken-accent-dark);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.faq-answer-link:hover {
+  text-decoration: underline;
 }
 
 .faq-contact {
