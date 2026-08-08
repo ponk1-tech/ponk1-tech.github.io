@@ -3,11 +3,14 @@ import type { GuideVideoSource } from "@/types/guide";
 
 const isDev = process.env.NODE_ENV !== "production";
 
+type GuideMediaSize = "standard" | "compact";
+
 interface GuideMediaImageProps {
   kind: "image";
   src?: string;
   alt: string;
   caption?: string;
+  size?: GuideMediaSize;
 }
 
 interface GuideMediaVideoProps {
@@ -17,6 +20,7 @@ interface GuideMediaVideoProps {
   alt: string;
   caption?: string;
   autoplay?: boolean;
+  size?: GuideMediaSize;
 }
 
 type GuideMediaProps = GuideMediaImageProps | GuideMediaVideoProps;
@@ -30,10 +34,14 @@ function GuideMediaPlaceholder({ label }: { label: string }) {
 }
 
 export default function GuideMedia(props: GuideMediaProps) {
-  const { caption } = props;
+  const { caption, size = "standard" } = props;
 
   return (
-    <figure className="aiken-guide-media">
+    <figure
+      className={
+        size === "compact" ? "aiken-guide-media aiken-guide-media-compact" : "aiken-guide-media"
+      }
+    >
       <div className="aiken-guide-media-frame">
         {props.kind === "image" ? (
           props.src ? (

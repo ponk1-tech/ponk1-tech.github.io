@@ -82,6 +82,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
               kind="image"
               src="/aikenbiyori/guide/getting-started/dog-profile.png"
               alt="愛犬日和の愛犬プロフィール編集画面"
+              size="compact"
             />
           }
         >
@@ -100,6 +101,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
               kind="image"
               src="/aikenbiyori/guide/getting-started/walk-time-settings.png"
               alt="愛犬日和の散歩する時間帯の設定画面"
+              size="compact"
             />
           }
         />
@@ -114,6 +116,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
               kind="image"
               src="/aikenbiyori/guide/getting-started/daily-care-home.png"
               alt="愛犬日和のホームに表示された今日のケア"
+              size="compact"
             />
           }
         />
@@ -128,6 +131,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
               kind="image"
               src="/aikenbiyori/guide/getting-started/ai-consultation.png"
               alt="愛犬日和のAIに相談する入力画面"
+              size="compact"
             />
           }
         >
@@ -146,6 +150,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
               kind="image"
               src="/aikenbiyori/guide/getting-started/daily-record.png"
               alt="愛犬日和の毎日の記録一覧画面"
+              size="compact"
             />
           }
         />
