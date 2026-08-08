@@ -22,10 +22,6 @@ export const metadata: Metadata = {
   alternates: {
     canonical: canonicalUrl,
   },
-  robots: {
-    index: false,
-    follow: false,
-  },
   openGraph: {
     type: "website",
     locale: "ja_JP",
@@ -115,10 +111,10 @@ export default function AikenbiyoriGuideDailyCarePage() {
           description="ホームでは、その日の天気と一緒に「今日のケア」を確認できます。"
           layout="split"
           media={
-            /* 想定ファイル名: daily-care-home.png */
             <GuideMedia
               kind="image"
-              alt="愛犬日和のホームに表示された今日のケアと天気"
+              src="/aikenbiyori/guide/daily-care/daily-care-home.png"
+              alt="愛犬日和のホームに表示された今日のケア"
               size="standard"
             />
           }
@@ -137,10 +133,10 @@ export default function AikenbiyoriGuideDailyCarePage() {
           description="散歩する時間を登録しておくと、その時間ごとの過ごし方のヒントを確認できます。"
           layout="split"
           media={
-            /* 想定ファイル名: walk-slot-alternative.png */
             <GuideMedia
               kind="image"
-              alt="愛犬日和の散歩する時間帯のコメントと別時間の提案"
+              src="/aikenbiyori/guide/daily-care/walk-slot-alternative.png"
+              alt="散歩時間ごとのケアと別の時間の提案"
               size="standard"
             />
           }
@@ -162,10 +158,11 @@ export default function AikenbiyoriGuideDailyCarePage() {
           description="「今日のケア」では、地域の天気や気温、降水確率、風などの情報を参考にしています。"
           layout="split"
           media={
-            /* 想定ファイル名: daily-care-detail.png */
             <GuideMedia
               kind="image"
-              alt="愛犬日和の今日のケア詳細画面"
+              src="/aikenbiyori/guide/daily-care/daily-care-detail.png"
+              alt="愛犬日和の今日のケア詳細と近隣イベント情報"
+              caption="イベント情報が見つかった場合の表示例です。"
               size="standard"
             />
           }
@@ -189,10 +186,10 @@ export default function AikenbiyoriGuideDailyCarePage() {
           description="アプリを開いたとき、その日の「今日のケア」がまだ用意されていなければ自動で作成されます。"
           layout="split"
           media={
-            /* 想定ファイル名: refresh-dialog.png */
             <GuideMedia
               kind="image"
-              alt="愛犬日和の今日のケアを更新するダイアログ"
+              src="/aikenbiyori/guide/daily-care/refresh-dialog.png"
+              alt="今日のケアを更新する無料プランのダイアログ"
               size="standard"
             />
           }

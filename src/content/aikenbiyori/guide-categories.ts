@@ -10,7 +10,8 @@ export const guideCategories: RelatedGuideItem[] = [
   {
     title: "今日のケア",
     description: "その日のケアや過ごし方の確認方法を紹介します。",
-    status: "planned",
+    href: "/aikenbiyori/guide/daily-care/",
+    status: "available",
   },
   {
     title: "AIに相談",
