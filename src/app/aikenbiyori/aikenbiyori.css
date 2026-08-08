@@ -911,6 +911,12 @@ body:has(.aiken-site-shell) > main {
   object-fit: cover;
 }
 
+.aiken-guide-media:not(.aiken-guide-media-compact) .aiken-guide-media-frame {
+  width: 86%;
+  max-width: 340px;
+  margin-inline: auto;
+}
+
 .aiken-guide-media-compact .aiken-guide-media-frame {
   width: 78%;
   max-width: 320px;
@@ -1102,7 +1108,8 @@ a.aiken-guide-related-card:hover {
     margin-top: 0;
   }
 
-  .aiken-guide-media-compact .aiken-guide-media-frame {
+  .aiken-guide-media-compact .aiken-guide-media-frame,
+  .aiken-guide-media:not(.aiken-guide-media-compact) .aiken-guide-media-frame {
     width: 100%;
     max-width: none;
     margin-inline: 0;
