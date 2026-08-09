@@ -1,13 +1,11 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Breadcrumb from "@/components/aikenbiyori/guide/Breadcrumb";
 import GuideHero from "@/components/aikenbiyori/guide/GuideHero";
 import GuideNote from "@/components/aikenbiyori/guide/GuideNote";
-import GuideSection from "@/components/aikenbiyori/guide/GuideSection";
 import HelpFooter from "@/components/aikenbiyori/guide/HelpFooter";
 import RelatedGuides from "@/components/aikenbiyori/guide/RelatedGuides";
 import TableOfContents from "@/components/aikenbiyori/guide/TableOfContents";
-import { guideCategories } from "@/content/aikenbiyori/guide-categories";
+import { guideCategories, supportLinks } from "@/content/aikenbiyori/guide-categories";
 import { siteConfig } from "@/lib/siteConfig";
 
 const pageTitle = "使い方ガイド | 愛犬日和 | Ponk1 Tech";
@@ -64,23 +62,12 @@ export default function AikenbiyoriGuidePage() {
           <RelatedGuides title="カテゴリから探す" items={guideCategories} />
         </div>
 
-        <GuideSection
-          id="help"
-          title="困ったときは"
-          description={
-            <>
-              使い方に迷ったときや、うまく動かないときは、
-              <Link href="/aikenbiyori/faq/">よくある質問</Link>
-              や
-              <Link href="/aikenbiyori/help/troubleshooting/">トラブルシューティング</Link>
-              をご確認ください。
-            </>
-          }
-        >
+        <div id="help">
+          <RelatedGuides title="困ったときは" items={supportLinks} />
           <GuideNote variant="warning">
             愛犬日和は診断や治療を行うアプリではありません。緊急時や症状が気になる場合は、動物病院へ相談してください。
           </GuideNote>
-        </GuideSection>
+        </div>
 
         <HelpFooter />
       </div>

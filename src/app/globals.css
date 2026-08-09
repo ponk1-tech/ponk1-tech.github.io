@@ -652,6 +652,22 @@ a:hover {
   transform: translateY(-1px);
 }
 
+.faq-contact-button-secondary {
+  border: 1px solid #cfd5b7;
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--aiken-accent-dark);
+}
+
+.faq-contact-button-secondary:hover {
+  border-color: var(--aiken-accent);
+  background: var(--aiken-accent-soft);
+  color: var(--aiken-accent-dark);
+}
+
+.faq-contact .faq-contact-next {
+  margin-top: 1rem;
+}
+
 .faq-contact-note {
   color: var(--text-muted);
   font-size: 0.8rem;

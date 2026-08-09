@@ -72,12 +72,6 @@ const relatedItems: RelatedGuideItem[] = [
     href: "/aikenbiyori/guide/plans/",
     status: "available",
   },
-  {
-    title: "トラブルシューティング",
-    description: "困ったときの対処方法を紹介します。",
-    href: "/aikenbiyori/help/troubleshooting/",
-    status: "available",
-  },
 ];
 
 export default function AikenbiyoriGuideDailyCarePage() {
@@ -192,7 +186,7 @@ export default function AikenbiyoriGuideDailyCarePage() {
         <GuideSection
           id="update"
           title="今日のケアを更新する"
-          description="アプリを開いたとき、その日の「今日のケア」がまだ用意されていなければ自動で作成されます。"
+          description="その日の「今日のケア」がまだ用意されていなければ、当日の内容が必要になったタイミングで自動的に作成されます。決まった時刻に作成されるものではありません。"
           layout="split"
           media={
             <GuideMedia
@@ -212,7 +206,7 @@ export default function AikenbiyoriGuideDailyCarePage() {
             内容を更新したいときは、ホームの更新ボタンから「今日のケアを更新」できます。
           </p>
           <p className="aiken-guide-section-description">
-            無料プランでは、動画広告を見ることで追加の更新ができます。ライトプラン・プレミアムプランでは、1日に数回まで広告なしで更新できます。利用回数や各プランの詳しい違いは、
+            無料プランでは、動画広告を見ることで追加の更新ができます。ライトプラン・プレミアムプランでは、1日3回まで広告なしで更新できます。利用回数や各プランの詳しい違いは、
             <Link href="/aikenbiyori/guide/plans/">プラン・課金・広告</Link>
             のガイドでご案内しています。
           </p>

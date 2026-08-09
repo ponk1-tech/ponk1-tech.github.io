@@ -67,18 +67,6 @@ const relatedItems: RelatedGuideItem[] = [
     href: "/aikenbiyori/guide/plans/",
     status: "available",
   },
-  {
-    title: "トラブルシューティング",
-    description: "困ったときの対処方法を紹介します。",
-    href: "/aikenbiyori/help/troubleshooting/",
-    status: "available",
-  },
-  {
-    title: "よくある質問",
-    description: "カテゴリ別によくある質問と回答を確認できます。",
-    href: "/aikenbiyori/faq/",
-    status: "available",
-  },
 ];
 
 export default function AikenbiyoriGuideDataPage() {

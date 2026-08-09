@@ -72,18 +72,6 @@ const relatedItems: RelatedGuideItem[] = [
     href: "/aikenbiyori/guide/plans/",
     status: "available",
   },
-  {
-    title: "トラブルシューティング",
-    description: "困ったときの対処方法を紹介します。",
-    href: "/aikenbiyori/help/troubleshooting/",
-    status: "available",
-  },
-  {
-    title: "よくある質問",
-    description: "カテゴリ別によくある質問と回答を確認できます。",
-    href: "/aikenbiyori/faq/",
-    status: "available",
-  },
 ];
 
 export default function AikenbiyoriGuideAiConsultationPage() {
@@ -102,7 +90,7 @@ export default function AikenbiyoriGuideAiConsultationPage() {
         <GuideHero
           badge="AI CONSULTATION"
           title="AIに相談の使い方"
-          lead="気になることを入力すると、愛犬の情報も参考にしながら、状況を整理するためのヒントを確認できます。"
+          lead="気になることを入力すると、共有を許可した愛犬の情報も参考にしながら、状況を整理するためのヒントを確認できます。"
         />
 
         <TableOfContents items={tocItems} />
@@ -113,7 +101,7 @@ export default function AikenbiyoriGuideAiConsultationPage() {
           description="「AIに相談」は、愛犬について気になることを入力し、状況を整理したり、次に何を確認すればよいかを考えるための機能です。"
         >
           <p className="aiken-guide-section-description">
-            登録している愛犬の情報も参考にしながら、今できることや、様子を見るポイントなどを確認できます。
+            「設定」→「AIに送る情報」で共有を許可した愛犬の情報も参考にしながら、今できることや、様子を見るポイントなどを確認できます。
           </p>
           <GuideNote variant="warning">
             AIの回答は診断ではありません。緊急時や症状が気になる場合は、回答を待たず動物病院へご相談ください。
@@ -175,10 +163,10 @@ export default function AikenbiyoriGuideAiConsultationPage() {
             名前や犬種、年齢、体重、性格、今日の体調や過去の記録など、必要な情報だけを選べます。
           </p>
           <p className="aiken-guide-section-description">
-            写真や正確な住所などはAIへの相談情報として送信されません。
+            愛犬プロフィールから自動的に共有される情報として、写真や正確な住所は送信されません。
           </p>
           <GuideNote variant="note">
-            相談文に氏名・住所・電話番号などの個人情報を入力する必要はありません。送信前の確認画面で内容をご確認ください。
+            相談文に入力した内容はAIへの相談内容として送信されます。氏名・住所・電話番号など、相談に不要な個人情報を入力する必要はありません。送信前の確認画面で内容をご確認ください。
           </GuideNote>
         </GuideSection>
 

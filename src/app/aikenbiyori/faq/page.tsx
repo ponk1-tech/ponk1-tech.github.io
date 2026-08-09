@@ -57,7 +57,7 @@ export default function AikenbiyoriFaqPage() {
           <p className="faq-app-name">愛犬日和 ヘルプ</p>
           <h1>よくある質問</h1>
           <p className="faq-lead">
-            愛犬日和の使い方や、困ったときの対処方法をご案内します。
+            愛犬日和について、よくある疑問に短くお答えします。
           </p>
         </header>
 
@@ -90,8 +90,15 @@ export default function AikenbiyoriFaqPage() {
           <p className="faq-contact-label">サポート</p>
           <h2 id="faq-contact-title">解決しない場合</h2>
           <p>
-            FAQで解決しないご質問や不具合については、メールでお問い合わせください。
+            アプリが動かない、購入が反映されない、バックアップできないなどの場合は、トラブルシューティングもご確認ください。
           </p>
+          <Link
+            className="faq-contact-button faq-contact-button-secondary"
+            href="/aikenbiyori/help/troubleshooting/"
+          >
+            トラブルシューティングを見る
+          </Link>
+          <p className="faq-contact-next">それでも解決しない場合は、メールでお問い合わせください。</p>
           <a
             className="faq-contact-button"
             href={`mailto:${siteConfig.contactEmail}?subject=${encodeURIComponent("愛犬日和についてのお問い合わせ")}`}

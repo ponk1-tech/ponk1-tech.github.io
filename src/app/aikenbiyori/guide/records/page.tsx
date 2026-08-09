@@ -72,18 +72,6 @@ const relatedItems: RelatedGuideItem[] = [
     href: "/aikenbiyori/guide/plans/",
     status: "available",
   },
-  {
-    title: "トラブルシューティング",
-    description: "困ったときの対処方法を紹介します。",
-    href: "/aikenbiyori/help/troubleshooting/",
-    status: "available",
-  },
-  {
-    title: "よくある質問",
-    description: "カテゴリ別によくある質問と回答を確認できます。",
-    href: "/aikenbiyori/faq/",
-    status: "available",
-  },
 ];
 
 export default function AikenbiyoriGuideRecordsPage() {
@@ -200,7 +188,7 @@ export default function AikenbiyoriGuideRecordsPage() {
             散歩する時間帯や健康についてのメモも、必要に応じて追加できます。
           </p>
           <p className="aiken-guide-section-description">
-            登録した内容は、「今日のケア」や「AIに相談」で愛犬に合わせた内容を考える材料になります。
+            登録した内容は「今日のケア」の内容を考える材料になります。「AIに相談」では、共有を許可したプロフィール情報を回答の参考にします。
           </p>
         </GuideSection>
 
@@ -243,8 +231,7 @@ export default function AikenbiyoriGuideRecordsPage() {
           description={
             <>
               プロフィールに登録した情報は、
-              <Link href="/aikenbiyori/guide/daily-care/">今日のケア</Link>や
-              <Link href="/aikenbiyori/guide/ai-consultation/">AIに相談</Link>
+              <Link href="/aikenbiyori/guide/daily-care/">今日のケア</Link>
               の内容を考える材料になります。
             </>
           }
@@ -253,7 +240,8 @@ export default function AikenbiyoriGuideRecordsPage() {
             「今日のケア」は、プロフィールを変更しただけではその日に表示中の内容がすぐには変わりません。変更した内容をすぐ反映したい場合は、「今日のケアを更新」してください。
           </p>
           <p className="aiken-guide-section-description">
-            AI相談で送るプロフィール情報は、「設定」→「AIに送る情報」から項目ごとに変更できます。
+            <Link href="/aikenbiyori/guide/ai-consultation/">AIに相談</Link>
+            では、「設定」→「AIに送る情報」で共有を許可したプロフィール項目だけを回答の参考情報として送ります。
           </p>
         </GuideSection>
 

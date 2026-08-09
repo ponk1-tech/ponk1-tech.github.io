@@ -68,18 +68,6 @@ const relatedItems: RelatedGuideItem[] = [
     href: "/aikenbiyori/guide/data/",
     status: "available",
   },
-  {
-    title: "トラブルシューティング",
-    description: "困ったときの対処方法を紹介します。",
-    href: "/aikenbiyori/help/troubleshooting/",
-    status: "available",
-  },
-  {
-    title: "よくある質問",
-    description: "カテゴリ別によくある質問と回答を確認できます。",
-    href: "/aikenbiyori/faq/",
-    status: "available",
-  },
 ];
 
 export default function AikenbiyoriGuidePlansPage() {
@@ -179,15 +167,6 @@ export default function AikenbiyoriGuidePlansPage() {
           id="purchase"
           title="プランを購入する"
           description="設定からプラン画面を開き、ライトまたはプレミアムを選んで購入できます。"
-          layout="split"
-          media={
-            <GuideMedia
-              kind="image"
-              src="/aikenbiyori/guide/plans/restore-purchases.png"
-              alt="設定画面の購入を復元する項目"
-              size="standard"
-            />
-          }
         >
           <p className="aiken-guide-section-description">
             iPhone・iPadではApp Storeを通じて、AndroidではGoogle Playを通じて購入します。
@@ -204,6 +183,15 @@ export default function AikenbiyoriGuidePlansPage() {
           id="restore"
           title="購入情報を復元する"
           description="機種変更や再インストール後などに、以前購入したプランが表示されない場合は「購入を復元」を利用できます。"
+          layout="split"
+          media={
+            <GuideMedia
+              kind="image"
+              src="/aikenbiyori/guide/plans/restore-purchases.png"
+              alt="設定画面の購入を復元する項目"
+              size="standard"
+            />
+          }
         >
           <GuideNote variant="note">
             「購入を復元」は、サブスクリプションの購入状態を確認する機能です。愛犬プロフィールや記録、写真を復元する機能ではありません。ローカルデータの復元については

@@ -12,11 +12,21 @@ export default function HelpFooter({
     <section className="aiken-guide-help" aria-labelledby="aiken-guide-help-title">
       <div className="aiken-guide-help-faq">
         <p className="aiken-guide-help-label">困ったときは</p>
-        <h2 id="aiken-guide-help-title">よくある質問もご確認ください</h2>
-        <p>使い方で分からないことがあれば、まずはFAQをご覧ください。</p>
-        <Link className="aiken-guide-help-button" href="/aikenbiyori/faq/">
-          よくある質問を見る
-        </Link>
+        <h2 id="aiken-guide-help-title">FAQと対処方法をご確認ください</h2>
+        <p>
+          まずはよくある質問をご確認ください。エラーや操作上の問題はトラブルシューティングでも確認できます。
+        </p>
+        <div className="aiken-guide-help-links">
+          <Link className="aiken-guide-help-button" href="/aikenbiyori/faq/">
+            よくある質問を見る
+          </Link>
+          <Link
+            className="aiken-guide-help-button aiken-guide-help-button-secondary"
+            href="/aikenbiyori/help/troubleshooting/"
+          >
+            トラブルシューティングを見る
+          </Link>
+        </div>
       </div>
       <div className="aiken-guide-help-contact">
         <p>それでも解決しない場合は、メールでお問い合わせください。</p>

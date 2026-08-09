@@ -32,21 +32,24 @@ export const guideCategories: RelatedGuideItem[] = [
     status: "available",
   },
   {
-    title: "データ・バックアップ",
-    description: "記録データの保存やバックアップについて紹介します。",
+    title: "データ・バックアップ・機種変更",
+    description: "記録データの保存やバックアップ、機種変更について紹介します。",
     href: "/aikenbiyori/guide/data/",
+    status: "available",
+  },
+];
+
+export const supportLinks = [
+  {
+    title: "よくある質問",
+    description: "よくある疑問への短い回答を確認できます。",
+    href: "/aikenbiyori/faq/",
     status: "available",
   },
   {
     title: "トラブルシューティング",
-    description: "困ったときの対処方法を紹介します。",
+    description: "エラーや操作上の問題の対処方法を確認できます。",
     href: "/aikenbiyori/help/troubleshooting/",
     status: "available",
   },
-  {
-    title: "よくある質問",
-    description: "カテゴリ別によくある質問と回答を確認できます。",
-    href: "/aikenbiyori/faq/",
-    status: "available",
-  },
-];
+] satisfies RelatedGuideItem[];

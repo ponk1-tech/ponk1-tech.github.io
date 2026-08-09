@@ -76,7 +76,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
         <GuideSection
           id="register-dog"
           title="愛犬を登録する"
-          description="まずは、一緒に暮らしている愛犬のことを登録します。名前や誕生日、体重などの情報は、「今日のケア」や「AIに相談」の内容を考える材料になります。"
+          description="まずは、一緒に暮らしている愛犬のことを登録します。登録した情報は「今日のケア」の内容を考える材料になります。「AIに相談」では、共有を許可したプロフィール情報を回答の参考にします。"
           layout="split"
           media={
             <GuideMedia
@@ -125,7 +125,7 @@ export default function AikenbiyoriGuideGettingStartedPage() {
         <GuideSection
           id="ai-consultation"
           title="気になることは「AIに相談」"
-          description="散歩や過ごし方、いつもと少し違う様子など、気になることがあれば「AIに相談」から入力できます。愛犬の情報を踏まえて、考えるための材料を整理します。"
+          description="散歩や過ごし方、いつもと少し違う様子など、気になることがあれば「AIに相談」から入力できます。共有を許可した愛犬の情報を参考に、考えるための材料を整理します。"
           layout="split"
           media={
             <GuideMedia

@@ -131,11 +131,11 @@ export default function AikenbiyoriPage() {
           number="02"
           eyebrow="AIに相談"
           title="気になることを、AIと整理する"
-          description="愛犬のプロフィールや相談内容をもとに、次に確認したいことや、今できる対応を分かりやすく整理します。"
+          description="共有を許可した愛犬のプロフィール情報と相談内容をもとに、次に確認したいことや、今できる対応を分かりやすく整理します。"
           imageSrc="/aikenbiyori/illustrations/ai-consultation.png"
           imageAlt="愛犬とAI相談の会話画面を描いた水彩風イラスト"
           points={[
-            "愛犬のプロフィールを踏まえて相談",
+            "共有を許可した愛犬情報を踏まえて相談",
             "気になる状況を文章で入力",
             "次に確認したいことを整理",
           ]}
@@ -187,25 +187,25 @@ export default function AikenbiyoriPage() {
         <div className="aiken-section-heading">
           <p className="aiken-section-kicker">GUIDE</p>
           <h2 id="guide-title">初めて使う方へ</h2>
-          <p>まずは愛犬日和でできることと、よくある質問をご覧ください。</p>
+          <p>愛犬の登録から、毎日の使い方へ進むための入口です。</p>
         </div>
         <div className="aiken-guide-links">
-          <a href="#features">
-            <span>このページで分かること</span>
-            <strong>愛犬日和とは</strong>
-            <small>3つの主な機能を見る</small>
-          </a>
-          <Link href="/aikenbiyori/faq/">
-            <span>困ったときは</span>
-            <strong>よくある質問</strong>
-            <small>カテゴリ別に回答を見る</small>
+          <Link href="/aikenbiyori/guide/getting-started/">
+            <span>最初の使い方</span>
+            <strong>はじめての愛犬日和</strong>
+            <small>愛犬の登録から、最初の使い方まで</small>
+          </Link>
+          <Link href="/aikenbiyori/guide/">
+            <span>機能別に確認</span>
+            <strong>使い方ガイド</strong>
+            <small>今日のケア、AI相談、記録など詳しい使い方</small>
           </Link>
         </div>
       </section>
 
-      <DownloadCta appStoreUrl={appStoreUrl} />
-
       <HelpNavigation />
+
+      <DownloadCta appStoreUrl={appStoreUrl} />
     </div>
   );
 }

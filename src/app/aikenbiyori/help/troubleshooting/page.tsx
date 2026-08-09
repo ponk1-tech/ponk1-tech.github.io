@@ -70,12 +70,6 @@ const relatedItems: RelatedGuideItem[] = [
     href: "/aikenbiyori/guide/data/",
     status: "available",
   },
-  {
-    title: "よくある質問",
-    description: "カテゴリ別によくある質問と回答を確認できます。",
-    href: "/aikenbiyori/faq/",
-    status: "available",
-  },
 ];
 
 export default function AikenbiyoriTroubleshootingPage() {
@@ -301,7 +295,7 @@ export default function AikenbiyoriTroubleshootingPage() {
           </GuideNote>
         </GuideSection>
 
-        <RelatedGuides title="関連する使い方" items={relatedItems} />
+        <RelatedGuides title="関連するガイド" items={relatedItems} />
 
         <HelpFooter />
       </div>
