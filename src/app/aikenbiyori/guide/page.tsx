@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Breadcrumb from "@/components/aikenbiyori/guide/Breadcrumb";
 import GuideHero from "@/components/aikenbiyori/guide/GuideHero";
 import GuideNote from "@/components/aikenbiyori/guide/GuideNote";
-import HelpFooter from "@/components/aikenbiyori/guide/HelpFooter";
 import RelatedGuides from "@/components/aikenbiyori/guide/RelatedGuides";
 import TableOfContents from "@/components/aikenbiyori/guide/TableOfContents";
 import { guideCategories, supportLinks } from "@/content/aikenbiyori/guide-categories";
@@ -69,7 +68,6 @@ export default function AikenbiyoriGuidePage() {
           </GuideNote>
         </div>
 
-        <HelpFooter />
       </div>
     </div>
   );
