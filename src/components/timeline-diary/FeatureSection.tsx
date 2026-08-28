@@ -1,6 +1,5 @@
 interface FeatureSectionProps {
   id: string;
-  number: string;
   eyebrow: string;
   title: string;
   description: string;
@@ -10,7 +9,6 @@ interface FeatureSectionProps {
 
 export default function FeatureSection({
   id,
-  number,
   eyebrow,
   title,
   description,
@@ -18,10 +16,13 @@ export default function FeatureSection({
   note,
 }: FeatureSectionProps) {
   return (
-    <section className="td-feature" id={id} aria-labelledby={`${id}-title`}>
+    <section
+      className={`td-feature td-feature-${id}`}
+      id={id}
+      aria-labelledby={`${id}-title`}
+    >
       <p className="td-feature-label">
-        <span>{number}</span>
-        {eyebrow}
+        <strong>{eyebrow}</strong>
       </p>
       <h2 id={`${id}-title`}>{title}</h2>
       <p className="td-feature-description">{description}</p>

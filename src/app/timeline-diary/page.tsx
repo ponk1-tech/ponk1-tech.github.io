@@ -40,7 +40,7 @@ export default function TimelineDiaryPage() {
     (app) => app.bundleId === TIMELINE_DIARY_BUNDLE_ID || app.trackId === TIMELINE_DIARY_TRACK_ID,
   );
   const appStoreUrl = timelineDiaryApp?.trackViewUrl || undefined;
-  const iconUrl = timelineDiaryApp?.artworkUrl512 || timelineDiaryApp?.artworkUrl100 || undefined;
+  const iconUrl = "/timeline-diary/app-icon.png";
 
   const softwareApplicationJsonLd = timelineDiaryApp
     ? {
@@ -79,10 +79,9 @@ export default function TimelineDiaryPage() {
       <div className="td-features" id="features">
         <FeatureSection
           id="recording"
-          number="01"
           eyebrow="記録する"
           title="文章・写真・音声・タグで、気軽に記録"
-          description="ホーム画面の＋ボタンから、その場で日記を書き始められます。長い文章でなくても大丈夫です。"
+          description="ホーム画面の＋ボタンから、すぐに日記を書き始められます。短い文章でも、そのまま記録できます。"
           points={[
             "文章と日時を自由に入力",
             "写真は1件につき最大4枚まで添付",
@@ -92,7 +91,6 @@ export default function TimelineDiaryPage() {
         />
         <FeatureSection
           id="browsing"
-          number="02"
           eyebrow="振り返る"
           title="タイムライン・カレンダー・検索で振り返る"
           description="記録は自動的に時系列で並びます。日付やキーワード、タグからも探せます。"
@@ -105,10 +103,9 @@ export default function TimelineDiaryPage() {
         />
         <FeatureSection
           id="ai-reflection"
-          number="03"
           eyebrow="AI振り返り"
           title="期間を選んで、AIにまとめてもらう"
-          description="日・週・月・年、または好きな期間を選ぶと、その期間の記録をAIがまとめて振り返ってくれます。"
+          description="日・週・月・年、または好きな期間を選ぶと、AIがその期間の記録をまとめます。"
           points={[
             "日／週／月／年／カスタム期間から選択",
             "文章とタグをもとにAIが振り返りを作成",
@@ -161,7 +158,7 @@ export default function TimelineDiaryPage() {
 
       <section className="td-guide-cta" aria-labelledby="td-guide-cta-title">
         <h2 id="td-guide-cta-title">もっと詳しい使い方</h2>
-        <p>記録の作り方から、AI振り返り、データのバックアップまで詳しく紹介しています。</p>
+        <p>記録の作り方、AI振り返り、データのバックアップについて説明しています。</p>
         <Link className="td-button td-button-primary" href="/timeline-diary/guide/">
           使い方ガイドを見る
         </Link>
