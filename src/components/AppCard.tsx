@@ -1,4 +1,6 @@
+import Link from "next/link";
 import type { App } from "@/lib/appStore";
+import { appPageByBundleId } from "@/lib/appPages";
 
 interface AppCardProps {
   app: App;
@@ -43,14 +45,21 @@ export default function AppCard({ app }: AppCardProps) {
       {app.description && (
         <p className="app-notes">{truncateNotes(app.description)}</p>
       )}
-      <a
-        href={app.trackViewUrl}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="app-store-button"
-      >
-        App Storeで見る
-      </a>
+      <div className="app-card-actions">
+        <a
+          href={app.trackViewUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="app-store-button"
+        >
+          App Storeで見る
+        </a>
+        {app.bundleId && appPageByBundleId[app.bundleId] && (
+          <Link href={appPageByBundleId[app.bundleId]} className="app-detail-link">
+            詳細・使い方を見る
+          </Link>
+        )}
+      </div>
     </div>
   );
 }

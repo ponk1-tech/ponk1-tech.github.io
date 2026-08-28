@@ -243,6 +243,12 @@ a:hover {
   line-height: 1.6;
 }
 
+.app-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
 .app-store-button {
   display: inline-block;
   padding: 0.625rem 1.25rem;
@@ -256,6 +262,23 @@ a:hover {
 
 .app-store-button:hover {
   background: var(--accent-hover);
+  color: #fff;
+}
+
+.app-detail-link {
+  display: inline-block;
+  padding: 0.625rem 1.25rem;
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.app-detail-link:hover {
+  background: var(--accent);
   color: #fff;
 }
 
