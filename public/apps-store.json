@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-09-13T00:19:09.000Z",
+  "updatedAt": "2026-09-14T00:19:10.000Z",
   "apps": [
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,7 +139,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/82/28/568228dc-e0cb-9d4c-46a2-529b58e1d091/3.png/320x480bb.jpg",
@@ -152,22 +152,20 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "releaseNotes": "2026年4月から適用された新ルール問題を追加しました。\n（青切符・側方通過・反則金など）",
-      "genres": [
-        "教育",
-        "ライフスタイル"
+      "features": [
+        "iosUniversal"
       ],
+      "averageUserRating": 0,
+      "trackCensoredName": "自転車ルールクイズ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%AF%E3%82%A4%E3%82%BA/id6756289291?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseNotes": "2026年4月から適用された新ルール問題を追加しました。\n（青切符・側方通過・反則金など）",
       "releaseDate": "2025-12-14T08:00:00Z",
       "trackId": 6756289291,
       "trackName": "自転車ルールクイズ",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-04-03T16:11:57Z",
       "version": "1.2.0",
       "wrapperType": "software",
@@ -178,27 +176,32 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "16.6",
       "fileSizeBytes": "5134336",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.BicycleQuiz",
+      "minimumOsVersion": "16.6",
       "genreIds": [
         "6017",
         "6012"
       ],
-      "trackCensoredName": "自転車ルールクイズ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%AF%E3%82%A4%E3%82%BA/id6756289291?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "genres": [
+        "教育",
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -331,7 +334,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/94/fd/d694fdf2-13a6-4aa8-0ce4-80d85d9e5ae5/1.png/320x480bb.jpg",
@@ -342,22 +344,18 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "releaseNotes": "・リスト不具合の修正",
-      "genres": [
-        "ライフスタイル",
-        "仕事効率化"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "シンプル共有リスト",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E5%85%B1%E6%9C%89%E3%83%AA%E3%82%B9%E3%83%88/id6756349384?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseNotes": "・リスト不具合の修正",
       "releaseDate": "2026-01-13T08:00:00Z",
       "trackId": 6756349384,
       "trackName": "シンプル共有リスト",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-03T17:06:14Z",
       "version": "1.4.1",
       "wrapperType": "software",
@@ -369,29 +367,32 @@
         "EN",
         "JA"
       ],
-      "minimumOsVersion": "16.6",
       "fileSizeBytes": "4948992",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.SimpleSharingList",
+      "minimumOsVersion": "16.6",
       "genreIds": [
         "6012",
         "6007"
       ],
-      "trackCensoredName": "シンプル共有リスト",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E5%85%B1%E6%9C%89%E3%83%AA%E3%82%B9%E3%83%88/id6756349384?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル",
+        "仕事効率化"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -524,7 +525,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/cd/1ec1cd8c-4dc0-84a0-8f05-1d7ddd7990ae/1288.png/320x480bb.jpg",
@@ -544,22 +544,20 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "・エクスポート/インポート機能を実装しました\n・軽微な不具合修正",
-      "genres": [
-        "仕事効率化",
-        "教育"
+      "features": [
+        "iosUniversal"
       ],
+      "averageUserRating": 0,
+      "trackCensoredName": "NewPractice",
+      "trackViewUrl": "https://apps.apple.com/jp/app/newpractice/id6756706588?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseNotes": "・エクスポート/インポート機能を実装しました\n・軽微な不具合修正",
       "releaseDate": "2025-12-22T08:00:00Z",
       "trackId": 6756706588,
       "trackName": "NewPractice",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-15T13:22:54Z",
       "version": "1.1.2",
       "wrapperType": "software",
@@ -570,29 +568,32 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "33575936",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.example.NewPractice",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6007",
         "6017"
       ],
-      "trackCensoredName": "NewPractice",
-      "trackViewUrl": "https://apps.apple.com/jp/app/newpractice/id6756706588?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "genres": [
+        "仕事効率化",
+        "教育"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -725,7 +726,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/e9/43/33e9438e-eb82-ad2e-ace2-2c6506d3b36e/1.png/320x480bb.jpg",
@@ -746,20 +746,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ライフスタイル"
+      "features": [
+        "iosUniversal"
       ],
+      "averageUserRating": 0,
+      "trackCensoredName": "家電管理ノート",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%AE%B6%E9%9B%BB%E7%AE%A1%E7%90%86%E3%83%8E%E3%83%BC%E3%83%88/id6756811252?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6756811252,
       "trackName": "家電管理ノート",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-12T16:04:09Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -770,28 +769,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "34897920",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.applianceWarrantyReminder",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "家電管理ノート",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%AE%B6%E9%9B%BB%E7%AE%A1%E7%90%86%E3%83%8E%E3%83%BC%E3%83%88/id6756811252?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -924,7 +925,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/7b/48/557b48d0-465e-db5d-4073-a7d289b416cc/1.png/320x480bb.jpg",
@@ -942,20 +942,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ライフスタイル"
+      "features": [
+        "iosUniversal"
       ],
+      "averageUserRating": 0,
+      "trackCensoredName": "がまん貯金簿",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%8C%E3%81%BE%E3%82%93%E8%B2%AF%E9%87%91%E7%B0%BF/id6757073271?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6757073271,
       "trackName": "がまん貯金簿",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-12T16:05:22Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -966,26 +965,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "27689984",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.wishProgress",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "がまん貯金簿",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%8C%E3%81%BE%E3%82%93%E8%B2%AF%E9%87%91%E7%B0%BF/id6757073271?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1118,7 +1121,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/3c/ef/503cef8c-27a0-7633-3478-c907995ccc09/slice_00_1.png/320x480bb.jpg",
@@ -1133,20 +1135,17 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "仕事効率化"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "シンプルルーティン",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3/id6757098384?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6757098384,
       "trackName": "シンプルルーティン",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-12T16:39:30Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -1157,26 +1156,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "31858688",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.simpleRoutine",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6007"
       ],
-      "trackCensoredName": "シンプルルーティン",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3/id6757098384?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "genres": [
+        "仕事効率化"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/05/d1/0705d1d0-f51b-9b7e-8f81-467219d0e00c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/05/d1/0705d1d0-f51b-9b7e-8f81-467219d0e00c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1309,7 +1312,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/52/0c/8c520c5d-9e06-75a8-2d0e-560b65cbe629/03_ai-reflection.png/320x480bb.jpg",
@@ -1322,21 +1324,18 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/05/d1/0705d1d0-f51b-9b7e-8f81-467219d0e00c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/05/d1/0705d1d0-f51b-9b7e-8f81-467219d0e00c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/05/d1/0705d1d0-f51b-9b7e-8f81-467219d0e00c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "アプリの評価導線を追加し、AI振り返り周辺の安定性を改善しました。",
-      "genres": [
-        "ライフスタイル"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "タイムライン日記",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E6%97%A5%E8%A8%98/id6757142067?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseNotes": "アプリの評価導線を追加し、AI振り返り周辺の安定性を改善しました。",
       "releaseDate": "2026-01-15T08:00:00Z",
       "trackId": 6757142067,
       "trackName": "タイムライン日記",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-02T17:04:07Z",
       "version": "2.0.1",
       "wrapperType": "software",
@@ -1347,26 +1346,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "18.6",
       "fileSizeBytes": "50862080",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.timelineDiary",
+      "minimumOsVersion": "18.6",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "タイムライン日記",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E6%97%A5%E8%A8%98/id6757142067?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1499,7 +1502,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/3b/ec/3c3bec96-cf04-9a2f-3305-b27c2477e4af/output_00_1.png/320x480bb.jpg",
@@ -1511,20 +1513,17 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ヘルスケア／フィットネス"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "サップル",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%83%E3%83%97%E3%83%AB/id6757256097?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6757256097,
       "trackName": "サップル",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-12T15:31:03Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -1535,26 +1534,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "31891456",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.supplementMedicineReminder",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6013"
       ],
-      "trackCensoredName": "サップル",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%83%E3%83%97%E3%83%AB/id6757256097?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "genres": [
+        "ヘルスケア／フィットネス"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/93/fe/d993fe0e-3d49-958e-7174-0e446fa6dff1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/93/fe/d993fe0e-3d49-958e-7174-0e446fa6dff1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1687,7 +1690,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/d1/49/70d149fc-affe-7e85-8c8c-dec42973304b/output_00_1.png/320x480bb.jpg",
@@ -1701,21 +1703,18 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/93/fe/d993fe0e-3d49-958e-7174-0e446fa6dff1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/93/fe/d993fe0e-3d49-958e-7174-0e446fa6dff1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/93/fe/d993fe0e-3d49-958e-7174-0e446fa6dff1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "・広告表示修正",
-      "genres": [
-        "ヘルスケア／フィットネス"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "ワークアウトダイアリー",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC/id6757632431?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseNotes": "・広告表示修正",
       "releaseDate": "2026-01-14T08:00:00Z",
       "trackId": 6757632431,
       "trackName": "ワークアウトダイアリー",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-16T20:27:34Z",
       "version": "1.0.1",
       "wrapperType": "software",
@@ -1726,26 +1725,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "18.6",
       "fileSizeBytes": "31932416",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.workoutDiary",
+      "minimumOsVersion": "18.6",
       "genreIds": [
         "6013"
       ],
-      "trackCensoredName": "ワークアウトダイアリー",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC/id6757632431?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "genres": [
+        "ヘルスケア／フィットネス"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1878,7 +1881,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/b2/cd/0ab2cdd1-040c-c371-30a7-d1cc45adb755/1288.png/320x480bb.jpg",
@@ -1892,20 +1894,17 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ライフスタイル"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "あの日の君は",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF/id6757945946?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-02-11T08:00:00Z",
       "trackId": 6757945946,
       "trackName": "あの日の君は",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-11T09:49:44Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -1916,26 +1915,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "37211136",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.childMemoryDiary",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "あの日の君は",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF/id6757945946?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2068,7 +2071,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/48/78/7e487894-7039-7275-e8bd-f7d4048ade72/1288.png/320x480bb.jpg",
@@ -2080,20 +2082,17 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ライフスタイル"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "マステログ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%B9%E3%83%86%E3%83%AD%E3%82%B0/id6757968136?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-02-02T08:00:00Z",
       "trackId": 6757968136,
       "trackName": "マステログ",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-02T19:00:55Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -2104,26 +2103,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "31975424",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.maskingTapeManagement",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "マステログ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%B9%E3%83%86%E3%83%AD%E3%82%B0/id6757968136?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2256,7 +2259,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/a3/4c/12a34c56-4a7d-8bf8-d4ab-3bf08e005038/1266.png/320x480bb.jpg",
@@ -2268,21 +2270,17 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ライフスタイル",
-        "ユーティリティ"
-      ],
+      "features": [],
+      "averageUserRating": 0,
+      "trackCensoredName": "まいにち習慣",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E7%BF%92%E6%85%A3/id6758481976?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-02-05T08:00:00Z",
       "trackId": 6758481976,
       "trackName": "まいにち習慣",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-05T17:45:34Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -2293,29 +2291,32 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "25952256",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.copilotRecommend",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6012",
         "6002"
       ],
-      "trackCensoredName": "まいにち習慣",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E7%BF%92%E6%85%A3/id6758481976?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル",
+        "ユーティリティ"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2448,7 +2449,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/38/68/223868c3-5876-b84e-c625-dbb1faaeedcd/1288.png/320x480bb.jpg",
@@ -2462,20 +2462,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ライフスタイル"
+      "features": [
+        "iosUniversal"
       ],
+      "averageUserRating": 0,
+      "trackCensoredName": "防災グッズ管理",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E7%AE%A1%E7%90%86/id6758548947?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-02-03T08:00:00Z",
       "trackId": 6758548947,
       "trackName": "防災グッズ管理",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-03T21:01:53Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -2486,26 +2485,30 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "34809856",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.emergencyKitManager",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "防災グッズ管理",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E7%AE%A1%E7%90%86/id6758548947?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/58/cb/1658cba6-25dd-620c-febd-8c53c41e4888/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/58/cb/1658cba6-25dd-620c-febd-8c53c41e4888/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2638,7 +2641,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/ee/04/8bee04f0-0323-80a1-b460-d2ef5ab4aa3b/1288.png/320x480bb.jpg",
@@ -2649,21 +2651,17 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/58/cb/1658cba6-25dd-620c-febd-8c53c41e4888/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/58/cb/1658cba6-25dd-620c-febd-8c53c41e4888/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/58/cb/1658cba6-25dd-620c-febd-8c53c41e4888/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "genres": [
-        "ミュージック",
-        "エンターテインメント"
-      ],
+      "features": [],
+      "averageUserRating": 5,
+      "trackCensoredName": "Beat Looper",
+      "trackViewUrl": "https://apps.apple.com/jp/app/beat-looper/id6759446463?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
       "releaseDate": "2026-02-23T08:00:00Z",
       "trackId": 6759446463,
       "trackName": "Beat Looper",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-23T21:45:34Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -2674,29 +2672,32 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "13.0",
       "fileSizeBytes": "27781120",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.beatLooper",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6011",
         "6016"
       ],
-      "trackCensoredName": "Beat Looper",
-      "trackViewUrl": "https://apps.apple.com/jp/app/beat-looper/id6759446463?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "genres": [
+        "ミュージック",
+        "エンターテインメント"
+      ],
       "userRatingCount": 1
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/ce/5f22ce20-fa66-6975-f516-5ab8fc482f7f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/ce/5f22ce20-fa66-6975-f516-5ab8fc482f7f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2829,7 +2830,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/a4/19/b7a4197c-b44d-c591-fae3-591dfff43c11/01.png/320x480bb.jpg",
@@ -2848,21 +2848,20 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/ce/5f22ce20-fa66-6975-f516-5ab8fc482f7f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/ce/5f22ce20-fa66-6975-f516-5ab8fc482f7f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/ce/5f22ce20-fa66-6975-f516-5ab8fc482f7f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "・動画広告を視聴した後、報酬が反映されないことがある問題を修正しました\n・動画広告の報酬確認処理を改善しました\n・「今日のケア」の更新処理の安定性を改善しました\n・その他、軽微な不具合を修正しました",
-      "genres": [
-        "ライフスタイル"
+      "features": [
+        "iosUniversal"
       ],
+      "averageUserRating": 0,
+      "trackCensoredName": "愛犬日和｜犬のAI相談・ケア記録",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%84%9B%E7%8A%AC%E6%97%A5%E5%92%8C-%E7%8A%AC%E3%81%AEai%E7%9B%B8%E8%AB%87-%E3%82%B1%E3%82%A2%E8%A8%98%E9%8C%B2/id6794802051?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 0.00,
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseNotes": "・動画広告を視聴した後、報酬が反映されないことがある問題を修正しました\n・動画広告の報酬確認処理を改善しました\n・「今日のケア」の更新処理の安定性を改善しました\n・その他、軽微な不具合を修正しました",
       "releaseDate": "2026-08-16T07:00:00Z",
       "trackId": 6794802051,
       "trackName": "愛犬日和｜犬のAI相談・ケア記録",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-22T23:41:13Z",
       "version": "1.0.1",
       "wrapperType": "software",
@@ -2873,21 +2872,22 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "minimumOsVersion": "15.0",
       "fileSizeBytes": "110324736",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.ponk1tech.aidogcare",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6012"
       ],
-      "trackCensoredName": "愛犬日和｜犬のAI相談・ケア記録",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%84%9B%E7%8A%AC%E6%97%A5%E5%92%8C-%E7%8A%AC%E3%81%AEai%E7%9B%B8%E8%AB%87-%E3%82%B1%E3%82%A2%E8%A8%98%E9%8C%B2/id6794802051?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genres": [
+        "ライフスタイル"
+      ],
       "userRatingCount": 0
     }
   ]
