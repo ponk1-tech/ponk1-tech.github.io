@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-11-26T00:10:31.000Z",
+  "updatedAt": "2026-11-27T00:10:29.000Z",
   "apps": [
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/82/28/568228dc-e0cb-9d4c-46a2-529b58e1d091/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/08/65/e4086589-eca3-579e-32b4-d19bf968ebe9/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/b7/1a/29b71aba-440b-5f06-6eae-f81a4965d592/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/da/63/e8da6324-6a99-d3b7-57c4-2c1cbe445245/4.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/2e/b5/582eb5de-347d-9322-ec6a-372ee0e6a6a2/1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/6e/f3/fe6ef36c-35fd-461f-3a38-a2870987a831/2.png/360x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -157,37 +142,34 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "5134336",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.com/",
-      "releaseNotes": "2026年4月から適用された新ルール問題を追加しました。\n（青切符・側方通過・反則金など）",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/82/28/568228dc-e0cb-9d4c-46a2-529b58e1d091/3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/08/65/e4086589-eca3-579e-32b4-d19bf968ebe9/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/b7/1a/29b71aba-440b-5f06-6eae-f81a4965d592/2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/da/63/e8da6324-6a99-d3b7-57c4-2c1cbe445245/4.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/2e/b5/582eb5de-347d-9322-ec6a-372ee0e6a6a2/1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/6e/f3/fe6ef36c-35fd-461f-3a38-a2870987a831/2.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d5/ff/52d5ff2a-ed02-1143-bf89-7884ea411807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "genres": [
         "教育",
         "ライフスタイル"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.BicycleQuiz",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2025-12-14T08:00:00Z",
       "trackId": 6756289291,
       "trackName": "自転車ルールクイズ",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-12-14T08:00:00Z",
       "minimumOsVersion": "16.6",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-04-03T16:11:57Z",
-      "genreIds": [
-        "6017",
-        "6012"
-      ],
+      "releaseNotes": "2026年4月から適用された新ルール問題を追加しました。\n（青切符・側方通過・反則金など）",
       "version": "1.2.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -196,20 +178,28 @@
       "trackCensoredName": "自転車ルールクイズ",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%AF%E3%82%A4%E3%82%BA/id6756289291?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.BicycleQuiz",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "5134336",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6017",
+        "6012"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/94/fd/d694fdf2-13a6-4aa8-0ce4-80d85d9e5ae5/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/8f/e3/518fe3dd-73cd-4903-e8a8-01f2f35753de/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/66/14/e26614ff-24d4-9855-efb1-1fd457aea637/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/77/ca/cc77ca7c-e6b2-4fee-af95-9d6a43facc8b/4.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -349,38 +339,29 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
+      "features": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/94/fd/d694fdf2-13a6-4aa8-0ce4-80d85d9e5ae5/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/8f/e3/518fe3dd-73cd-4903-e8a8-01f2f35753de/2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/66/14/e26614ff-24d4-9855-efb1-1fd457aea637/3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/77/ca/cc77ca7c-e6b2-4fee-af95-9d6a43facc8b/4.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "4948992",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.com/",
-      "releaseNotes": "・リスト不具合の修正",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/bf/c161bff2-8518-a528-cf92-8afaa97b22d0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル",
         "仕事効率化"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.SimpleSharingList",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-01-13T08:00:00Z",
       "trackId": 6756349384,
       "trackName": "シンプル共有リスト",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-01-13T08:00:00Z",
       "minimumOsVersion": "16.6",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-02-03T17:06:14Z",
-      "genreIds": [
-        "6012",
-        "6007"
-      ],
+      "releaseNotes": "・リスト不具合の修正",
       "version": "1.4.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -389,31 +370,29 @@
       "trackCensoredName": "シンプル共有リスト",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E5%85%B1%E6%9C%89%E3%83%AA%E3%82%B9%E3%83%88/id6756349384?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.SimpleSharingList",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.com/",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "4948992",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/cd/1ec1cd8c-4dc0-84a0-8f05-1d7ddd7990ae/1288.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ac/df/12acdf81-56b0-dadd-a308-c1ac09a294a9/1289.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/61/d8/fc61d892-ad71-b640-932b-b444ecf5d7a2/1290.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/6c/02/df6c0211-e4cb-b765-a2f1-a53427b530d4/1291.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/58/bb/4558bb2c-cac6-09d6-5041-9d2432023921/1292.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/90/f8/9990f852-d009-cb0f-2e2a-b347b6d11765/1293.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/1c/22/521c22db-afc9-9a98-620d-9e031a0fbcb9/1294.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/77/6c/22776c21-72c6-3930-ee30-1c3e81cd589e/1295.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/06/64/ee066483-6f0c-6822-e84e-9ee333087023/1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/80/05/ac8005b8-ab01-4eeb-960b-14bd6afd2700/2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/ca/93/30ca9364-417a-52f6-7b18-4c5ce8480dfb/3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/7c/ad/387cad8b-e5fe-7e02-c4ea-8f351fc70b7b/4.png/360x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -553,37 +532,40 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "33575936",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.com/",
-      "releaseNotes": "・エクスポート/インポート機能を実装しました\n・軽微な不具合修正",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/cd/1ec1cd8c-4dc0-84a0-8f05-1d7ddd7990ae/1288.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ac/df/12acdf81-56b0-dadd-a308-c1ac09a294a9/1289.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/61/d8/fc61d892-ad71-b640-932b-b444ecf5d7a2/1290.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/6c/02/df6c0211-e4cb-b765-a2f1-a53427b530d4/1291.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/58/bb/4558bb2c-cac6-09d6-5041-9d2432023921/1292.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/90/f8/9990f852-d009-cb0f-2e2a-b347b6d11765/1293.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/1c/22/521c22db-afc9-9a98-620d-9e031a0fbcb9/1294.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/77/6c/22776c21-72c6-3930-ee30-1c3e81cd589e/1295.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/06/64/ee066483-6f0c-6822-e84e-9ee333087023/1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/80/05/ac8005b8-ab01-4eeb-960b-14bd6afd2700/2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/ca/93/30ca9364-417a-52f6-7b18-4c5ce8480dfb/3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/7c/ad/387cad8b-e5fe-7e02-c4ea-8f351fc70b7b/4.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/0f/a4390f86-948f-9661-708e-1f864fa04713/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "仕事効率化",
         "教育"
       ],
       "price": 0.00,
-      "bundleId": "com.example.NewPractice",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2025-12-22T08:00:00Z",
       "trackId": 6756706588,
       "trackName": "NewPractice",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-12-22T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-02-15T13:22:54Z",
-      "genreIds": [
-        "6007",
-        "6017"
-      ],
+      "releaseNotes": "・エクスポート/インポート機能を実装しました\n・軽微な不具合修正",
       "version": "1.1.2",
       "wrapperType": "software",
       "currency": "JPY",
@@ -592,32 +574,28 @@
       "trackCensoredName": "NewPractice",
       "trackViewUrl": "https://apps.apple.com/jp/app/newpractice/id6756706588?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.example.NewPractice",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "33575936",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007",
+        "6017"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/e9/43/33e9438e-eb82-ad2e-ace2-2c6506d3b36e/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/68/2e/9b682e06-e65a-dcdb-084f-fa57bcce0648/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/f2/80/d6f28016-7d4c-fdbe-4b2f-4d8f53743569/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/a4/20/41a4205a-36cc-eade-173f-a3de6e62c80d/4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/2e/de/a82edeb5-6569-52db-82da-5cfd79ab9f0e/7.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/2e/a1/4f2ea1f7-dee7-dc3e-54d3-55c138ad760b/5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/64/43/ab644321-a7a3-3ef7-7615-fd155bfcd73d/6.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/29/cf/df29cf01-1988-95b6-fbd4-f51ec2d1a883/2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/81/f4/c881f470-de96-1691-4f98-f99a324a9a25/3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/c9/7a/6cc97a54-7b72-3082-adb3-73317dd9964a/4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/c9/05/d4c905bc-2d84-7f6e-83c8-9a7a81e38cfd/1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/d8/b9/85d8b901-5ed1-ef94-7c67-87707828e4ed/6.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/76/aa/1576aa00-3d8e-2888-1dd9-394dcb137683/5.png/360x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -757,34 +735,39 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "34897920",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.github.io",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/e9/43/33e9438e-eb82-ad2e-ace2-2c6506d3b36e/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/68/2e/9b682e06-e65a-dcdb-084f-fa57bcce0648/2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/f2/80/d6f28016-7d4c-fdbe-4b2f-4d8f53743569/3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/a4/20/41a4205a-36cc-eade-173f-a3de6e62c80d/4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/2e/de/a82edeb5-6569-52db-82da-5cfd79ab9f0e/7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/2e/a1/4f2ea1f7-dee7-dc3e-54d3-55c138ad760b/5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/64/43/ab644321-a7a3-3ef7-7615-fd155bfcd73d/6.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/29/cf/df29cf01-1988-95b6-fbd4-f51ec2d1a883/2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/81/f4/c881f470-de96-1691-4f98-f99a324a9a25/3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/c9/7a/6cc97a54-7b72-3082-adb3-73317dd9964a/4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/c9/05/d4c905bc-2d84-7f6e-83c8-9a7a81e38cfd/1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/d8/b9/85d8b901-5ed1-ef94-7c67-87707828e4ed/6.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/76/aa/1576aa00-3d8e-2888-1dd9-394dcb137683/5.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/03/b4d403e5-c675-ce8b-110b-03e154143c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.applianceWarrantyReminder",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6756811252,
       "trackName": "家電管理ノート",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-01-12T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-01-12T16:04:09Z",
-      "genreIds": [
-        "6012"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -793,29 +776,27 @@
       "trackCensoredName": "家電管理ノート",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E5%AE%B6%E9%9B%BB%E7%AE%A1%E7%90%86%E3%83%8E%E3%83%BC%E3%83%88/id6756811252?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.applianceWarrantyReminder",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.github.io",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "34897920",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/7b/48/557b48d0-465e-db5d-4073-a7d289b416cc/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/13/9c/5b139c5d-dee9-269b-e8e6-d1826ce379fb/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/70/88/537088a5-a7d7-d29c-6c3c-d01e926b2927/4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/98/dd/d198dd0f-a034-6bf2-14a4-2a1b7093a55b/5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/8c/e5/be8ce502-1dab-9b7a-3611-d422f6920996/3.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/3e/63/253e63db-6727-2939-f167-20b91d4aadc3/1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/5d/3c/4d5d3c76-3888-b641-6dcb-21bfa24b8288/2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/f2/46/8ff246c2-1e7f-7532-d3e0-a283364af5eb/4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/96/8f/0c968f36-cdcd-a900-f3a3-67ee50fcff56/5.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/84/72/d58472f5-30f5-234f-5f1f-71f8f07e7d62/3.png/360x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -955,34 +936,36 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "27689984",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.github.io",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/7b/48/557b48d0-465e-db5d-4073-a7d289b416cc/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/13/9c/5b139c5d-dee9-269b-e8e6-d1826ce379fb/2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/70/88/537088a5-a7d7-d29c-6c3c-d01e926b2927/4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/98/dd/d198dd0f-a034-6bf2-14a4-2a1b7093a55b/5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/8c/e5/be8ce502-1dab-9b7a-3611-d422f6920996/3.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/3e/63/253e63db-6727-2939-f167-20b91d4aadc3/1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/5d/3c/4d5d3c76-3888-b641-6dcb-21bfa24b8288/2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/f2/46/8ff246c2-1e7f-7532-d3e0-a283364af5eb/4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/96/8f/0c968f36-cdcd-a900-f3a3-67ee50fcff56/5.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/84/72/d58472f5-30f5-234f-5f1f-71f8f07e7d62/3.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b7/42/30b7420d-0a7e-19b8-8a6f-d5be212f3014/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.wishProgress",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6757073271,
       "trackName": "がまん貯金簿",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-01-12T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-01-12T16:05:22Z",
-      "genreIds": [
-        "6012"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -991,24 +974,27 @@
       "trackCensoredName": "がまん貯金簿",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%8C%E3%81%BE%E3%82%93%E8%B2%AF%E9%87%91%E7%B0%BF/id6757073271?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.wishProgress",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.github.io",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "27689984",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/3c/ef/503cef8c-27a0-7633-3478-c907995ccc09/slice_00_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/4d/b4/874db4a8-8245-6a3a-92a3-d7c8a47472d1/slice_01_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/9d/a0/989da058-3600-0b37-85d5-c1f6b3b5852f/slice_06_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/4a/d7/c84ad7a9-aca7-35db-0ae8-c1d7b399abdf/slice_07_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/b3/91/a9b3916c-24ab-69c8-b4da-d8b4c17cf877/slice_02_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5f/d5/7f5fd535-7b30-95c0-5542-1754407dce72/slice_04_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/a5/cc/cba5cc3f-c3db-1d04-928b-484b06b8959f/slice_03_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/99/1f/ba991f57-ea90-82b6-accd-71b7e133cbba/slice_05_1.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1148,34 +1134,31 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/3c/ef/503cef8c-27a0-7633-3478-c907995ccc09/slice_00_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/4d/b4/874db4a8-8245-6a3a-92a3-d7c8a47472d1/slice_01_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/9d/a0/989da058-3600-0b37-85d5-c1f6b3b5852f/slice_06_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/4a/d7/c84ad7a9-aca7-35db-0ae8-c1d7b399abdf/slice_07_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/b3/91/a9b3916c-24ab-69c8-b4da-d8b4c17cf877/slice_02_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5f/d5/7f5fd535-7b30-95c0-5542-1754407dce72/slice_04_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/a5/cc/cba5cc3f-c3db-1d04-928b-484b06b8959f/slice_03_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/99/1f/ba991f57-ea90-82b6-accd-71b7e133cbba/slice_05_1.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "31858688",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.github.io",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/86/aa/1686aa46-06c9-cbe8-a7c5-589b604b4921/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "仕事効率化"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.simpleRoutine",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6757098384,
       "trackName": "シンプルルーティン",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-01-12T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-01-12T16:39:30Z",
-      "genreIds": [
-        "6007"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -1184,21 +1167,27 @@
       "trackCensoredName": "シンプルルーティン",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3/id6757098384?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.simpleRoutine",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.github.io",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "31858688",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/3b/ec/3c3bec96-cf04-9a2f-3305-b27c2477e4af/output_00_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c5/6b/7dc56b14-de49-ec73-ee91-5f78ee8929c7/output_00_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/1f/42/971f42fd-e5bb-b5ea-63ef-1516a98b1bec/output_00_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/6c/6f/9e6c6f36-086b-8980-0063-4caa93ff9f57/output_00_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/43/17/82431787-fc90-fe61-1ced-6f8f61605f61/output_00_6.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1338,34 +1327,28 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/3b/ec/3c3bec96-cf04-9a2f-3305-b27c2477e4af/output_00_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c5/6b/7dc56b14-de49-ec73-ee91-5f78ee8929c7/output_00_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/1f/42/971f42fd-e5bb-b5ea-63ef-1516a98b1bec/output_00_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/6c/6f/9e6c6f36-086b-8980-0063-4caa93ff9f57/output_00_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/43/17/82431787-fc90-fe61-1ced-6f8f61605f61/output_00_6.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "31891456",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.github.io",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/5f/b0/1c5fb0f3-a06d-fb30-173e-0ed0f7355d9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ヘルスケア／フィットネス"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.supplementMedicineReminder",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-01-12T08:00:00Z",
       "trackId": 6757256097,
       "trackName": "サップル",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-01-12T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-01-12T15:31:03Z",
-      "genreIds": [
-        "6013"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -1374,23 +1357,27 @@
       "trackCensoredName": "サップル",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%83%E3%83%97%E3%83%AB/id6757256097?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.supplementMedicineReminder",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.github.io",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "31891456",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6013"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/b2/cd/0ab2cdd1-040c-c371-30a7-d1cc45adb755/1288.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/01/bd/0f01bda4-31c4-2d2a-0768-d1afe01d92e4/1289.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/b8/70/6eb870df-20fc-f01b-f23f-ddefdd1c1aa8/1290.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/72/4e/ab724ef3-ddf7-070b-d2e4-e0833a2e71ab/1291.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2c/da/972cdac3-d74e-ae79-2200-7e7746e02516/1292.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/08/e2/0d08e22d-fd78-5e92-2c90-3f7522726bd4/1293.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/51/7e/0f517ee6-4e49-8634-df68-8c27766463bc/1294.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1530,34 +1517,30 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/b2/cd/0ab2cdd1-040c-c371-30a7-d1cc45adb755/1288.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/01/bd/0f01bda4-31c4-2d2a-0768-d1afe01d92e4/1289.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/b8/70/6eb870df-20fc-f01b-f23f-ddefdd1c1aa8/1290.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/72/4e/ab724ef3-ddf7-070b-d2e4-e0833a2e71ab/1291.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2c/da/972cdac3-d74e-ae79-2200-7e7746e02516/1292.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/08/e2/0d08e22d-fd78-5e92-2c90-3f7522726bd4/1293.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/51/7e/0f517ee6-4e49-8634-df68-8c27766463bc/1294.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "37211136",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.com/",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/84/ef/0a84efd4-c89a-b236-a440-1d610fba888f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.childMemoryDiary",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-02-11T08:00:00Z",
       "trackId": 6757945946,
       "trackName": "あの日の君は",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-02-11T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-02-11T09:49:44Z",
-      "genreIds": [
-        "6012"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -1566,21 +1549,27 @@
       "trackCensoredName": "あの日の君は",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF/id6757945946?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.childMemoryDiary",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "37211136",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/48/78/7e487894-7039-7275-e8bd-f7d4048ade72/1288.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/76/80/8c7680ae-b441-5e86-8d74-afc4e698e73a/1289.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/2b/4b/4a2b4b38-18ef-b4bf-53ae-69a66f12aae1/1290.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/b9/97/b1b99773-e07c-9e93-8e72-b053670f431f/1291.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/cf/ae/4fcfae0a-5e20-73bd-99d5-05f9775690c8/1293.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1720,34 +1709,28 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/48/78/7e487894-7039-7275-e8bd-f7d4048ade72/1288.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/76/80/8c7680ae-b441-5e86-8d74-afc4e698e73a/1289.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/2b/4b/4a2b4b38-18ef-b4bf-53ae-69a66f12aae1/1290.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/b9/97/b1b99773-e07c-9e93-8e72-b053670f431f/1291.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/cf/ae/4fcfae0a-5e20-73bd-99d5-05f9775690c8/1293.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "31975424",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.github.io",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ba/0c/1bba0ca2-8fd8-bf9d-361e-3ee6c7c7d83f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.maskingTapeManagement",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-02-02T08:00:00Z",
       "trackId": 6757968136,
       "trackName": "マステログ",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-02-02T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-02-02T19:00:55Z",
-      "genreIds": [
-        "6012"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -1756,21 +1739,27 @@
       "trackCensoredName": "マステログ",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%B9%E3%83%86%E3%83%AD%E3%82%B0/id6757968136?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.maskingTapeManagement",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.github.io",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "31975424",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/a3/4c/12a34c56-4a7d-8bf8-d4ab-3bf08e005038/1266.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/26/48/6d26488a-0749-e2e6-676c-0f66844d9790/1268.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/60/45/9860457d-5cf9-6235-acf5-960017fb56e3/1269.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/af/7d/20af7dc1-d0be-fa61-569a-001b3c590916/1267.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/38/6e/08386e61-c134-a9d5-4602-ac5c56fbf85e/1270.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1910,36 +1899,29 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/a3/4c/12a34c56-4a7d-8bf8-d4ab-3bf08e005038/1266.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/26/48/6d26488a-0749-e2e6-676c-0f66844d9790/1268.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/60/45/9860457d-5cf9-6235-acf5-960017fb56e3/1269.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/af/7d/20af7dc1-d0be-fa61-569a-001b3c590916/1267.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/38/6e/08386e61-c134-a9d5-4602-ac5c56fbf85e/1270.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "25952256",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.com/",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/94/c8/5c94c871-54a0-8e93-46c4-6fa8aa6cdbef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル",
         "ユーティリティ"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.copilotRecommend",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-02-05T08:00:00Z",
       "trackId": 6758481976,
       "trackName": "まいにち習慣",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-02-05T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-02-05T17:45:34Z",
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -1948,25 +1930,28 @@
       "trackCensoredName": "まいにち習慣",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E7%BF%92%E6%85%A3/id6758481976?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.copilotRecommend",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "25952256",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
       "userRatingCount": 0
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/38/68/223868c3-5876-b84e-c625-dbb1faaeedcd/1288.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/a3/1f/f7a31fea-fef4-03c0-10a3-c9e85bc24d88/1289.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c7/b9/12c7b9ff-0ecd-df64-3456-3cb1cd86c4b2/1290.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/fd/5b/36fd5bab-fb43-3172-7e6f-a20acece0194/1291.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/29/bf/1d29bf32-75a5-652d-fe1c-599f2c7542de/1292.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/cc/af/f4ccafb0-ed0a-a208-f743-ef4012dcf83b/Group_1__U00281_U0029.png/360x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2106,34 +2091,32 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ponk1-tech/id1859879501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "34809856",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://ponk1-tech.com/",
-      "artistId": 1859879501,
-      "artistName": "Ponk1 Tech",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/38/68/223868c3-5876-b84e-c625-dbb1faaeedcd/1288.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/a3/1f/f7a31fea-fef4-03c0-10a3-c9e85bc24d88/1289.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c7/b9/12c7b9ff-0ecd-df64-3456-3cb1cd86c4b2/1290.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/fd/5b/36fd5bab-fb43-3172-7e6f-a20acece0194/1291.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/29/bf/1d29bf32-75a5-652d-fe1c-599f2c7542de/1292.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/cc/af/f4ccafb0-ed0a-a208-f743-ef4012dcf83b/Group_1__U00281_U0029.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/8f/bc/1a8fbce6-7103-bb63-cc73-caa4db775e19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "ライフスタイル"
       ],
       "price": 0.00,
-      "bundleId": "com.ponk1tech.emergencyKitManager",
+      "artistId": 1859879501,
+      "artistName": "Ponk1 Tech",
+      "releaseDate": "2026-02-03T08:00:00Z",
       "trackId": 6758548947,
       "trackName": "防災グッズ管理",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-02-03T08:00:00Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Ponk1 Tech",
       "currentVersionReleaseDate": "2026-02-03T21:01:53Z",
-      "genreIds": [
-        "6012"
-      ],
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -2142,6 +2125,23 @@
       "trackCensoredName": "防災グッズ管理",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E7%AE%A1%E7%90%86/id6758548947?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.ponk1tech.emergencyKitManager",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://ponk1-tech.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "34809856",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "sellerName": "Ponk1 Tech",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012"
+      ],
       "userRatingCount": 0
     }
   ]
